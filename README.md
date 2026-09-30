@@ -10,3 +10,7 @@ Eksport pamięci projektu „Trener” z 30.09.2026.
 - [plan-ab.md](plan-ab.md): aktualny plan (rotacja A/B/C), wcześniejszy plan A/B i progresja
 - [historia.md](historia.md): historia sesji i ostatnie punkty odniesienia
 - [plany-historyczne.md](plany-historyczne.md): dawne plany trenerów (1–5, w tym mobility) i maile od trenera
+- [baza-cwiczen.md](baza-cwiczen.md): nowe ćwiczenia sprawdzone pod BJJ, z dowodami i filmikiem
+- [lifestyle.md](lifestyle.md): żywienie roślinne pod sport, białko, przepisy
+- [filmy.md](filmy.md): filmiki z techniką do ćwiczeń z planu
+- [raporty/](raporty/): cotygodniowe raporty (plan tygodnia, przepisy, artykuły, coś ekstra)
