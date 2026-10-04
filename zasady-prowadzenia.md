@@ -13,7 +13,7 @@ Nie wypisywać całej sesji z góry. Na starcie pytanie o energię 1–10 i ból
 
 ## Niedzielny plan tygodnia
 
-Co niedzielę routine „Trening: plan tygodnia” planuje sesje na kolejny tydzień (zmęczenie, samopoczucie) i przygotowuje linki do filmików.
+Co niedzielę routine „Trening: plan tygodnia” planuje sesje na kolejny tydzień (zmęczenie, samopoczucie) i przygotowuje linki do filmików. Czyta też 1–2 rzetelne źródła, uzupełnia [baza-cwiczen.md](baza-cwiczen.md) i [lifestyle.md](lifestyle.md) i pisze raport w [raporty/](raporty/).
 
 ## Pojęcia i konwencje
 

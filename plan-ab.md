@@ -14,7 +14,7 @@ Wejście stopniowe (Kuba był dopiero ~1 tydz./4 sesje po przerwie):
 
 **A góra:** rzut piłką / plyo pompki 4×3–5; skos sztangą 3×6–8; podciąganie neutralne 3×4–5; dipy 3×6–8; wiosło z podparciem 3×8–10; unoszenie bokiem 2×12–15.
 
-**B dół:** skok na skrzynię 4×3; trap-bar 3×5; bułgarski 3×8/str; hip thrust 3×8; łydki skoczne 2×15.
+**B dół:** skok na skrzynię 4×3; trap-bar 3×5 (gdy zajęty: martwy klasyczny); bułgarski 3×8/str; hip thrust 3×8; łydki skoczne 2×15; od 9.10 Nordic curl 2×3 na koniec ([baza-cwiczen.md](baza-cwiczen.md)).
 
 **C całość:** skok w dal 4×3; goblet / front squat 3×6–8; hantle płasko 3×8–10; RDL 3×8; biceps + triceps 2×10–12; Pallof / chaos Pallof 2×10/str.
 
