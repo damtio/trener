@@ -6,6 +6,7 @@ Eksport pamięci projektu „Trener” z 30.09.2026.
 
 ## Pliki
 
+- [HERMES.md](HERMES.md): instrukcja dla agenta Hermes, jak korzystać z repo i prowadzić treningi
 - [zasady-prowadzenia.md](zasady-prowadzenia.md): jak prowadzimy trening, rejestrowanie, filmiki YT z techniką, niedzielny plan tygodnia
 - [plan-ab.md](plan-ab.md): aktualny plan (rotacja A/B/C), wcześniejszy plan A/B i progresja
 - [historia.md](historia.md): historia sesji i ostatnie punkty odniesienia
