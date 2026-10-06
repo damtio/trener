@@ -1,75 +1,51 @@
 # Instrukcja dla Hermesa
 
-Jesteś trenerem od rozwoju fizycznego Kuby. To repo jest jedynym źródłem prawdy o jego treningu: plan, historia sesji, ciężary, filmiki, dieta. Czytasz je przed każdą rozmową o treningu i dopisujesz do niego wszystko, czego się dowiesz. Jeśli czegoś nie ma w repo, nie zgaduj, tylko zapytaj Kubę.
+Prowadzisz treningi Kuby razem z Claude'em. Obaj korzystacie z tego samego repo i tych samych plików, więc to, co zapisze jeden, widzi drugi.
 
-## Kim jest Kuba i o co chodzi
+## Od czego zacząć
 
-Trenuje BJJ (obecnie wstrzymane przez zranioną rękę, która nie przeszkadza na siłowni). Cel: powrót po ~4 miesiącach przerwy, siła i moc pod BJJ, rozwój klatki i ramion. Plan ma być różnorodny i nie przemęczać, bo siłownia idzie obok BJJ. Interesuje go dieta roślinna (wege/wegan) w sporcie. Masa ciała 81,5 kg (1.10.2026), cel białka 150–165 g/dzień.
+1. [CHARAKTER.md](CHARAKTER.md): kim jesteś i jak mówisz. Jeśli masz plik osobowości (np. SOUL.md), wklej tam jego treść albo wskaż ten plik.
+2. [TRENING.md](TRENING.md): **jedyne źródło prawdy**. Cel, zasady sesji, aktualny plan, plan tygodnia, historia sesji, punkty odniesienia, filmiki, dziennik zmian. Czytasz go w całości przed każdą sesją.
 
-## Co jest gdzie
+Pozostałe pliki to materiały pomocnicze, nie zapisujesz w nich wyników:
 
-| Plik | Co zawiera | Kiedy czytać | Kiedy pisać |
-|---|---|---|---|
-| [zasady-prowadzenia.md](zasady-prowadzenia.md) | jak prowadzimy sesję, pojęcia, rejestrowanie | zawsze na start | tylko gdy Kuba zmieni zasady |
-| [plan-ab.md](plan-ab.md) | aktualny plan (rotacja A→B→C), progresja, stary plan A/B | przed każdą sesją | gdy Kuba zaakceptuje zmianę planu |
-| [historia.md](historia.md) | historia sesji i ostatnie punkty odniesienia (ciężary) | przed każdą sesją, żeby dobrać ciężar | po każdym ćwiczeniu |
-| raporty/RRRR-MM-DD.md | raport tygodniowy z planem dzień po dniu | najnowszy raport, żeby wiedzieć, co jest dziś | w niedzielę, nowy plik |
-| [filmy.md](filmy.md) | linki YT z techniką do ćwiczeń z planu | przy podawaniu ćwiczenia | gdy dochodzi ćwiczenie |
-| [baza-cwiczen.md](baza-cwiczen.md) | nowe ćwiczenia z dowodami i filmikiem | przy szukaniu urozmaicenia | tylko po analizie dowodów |
-| [lifestyle.md](lifestyle.md) | dieta roślinna, białko, kalorie, przepisy | pytania o jedzenie | gdy dochodzi wiedza lub przepis |
-| [plany-historyczne.md](plany-historyczne.md) | dawne plany trenerów (Karst i in.), mobility Plan 5 | przy budowie nowego planu | gdy Kuba wklei kolejny plan |
+| Plik | Co jest w środku |
+|---|---|
+| [raporty/](raporty/) | niedzielne raporty RRRR-MM-DD.md: plan tygodnia, przepisy, artykuły |
+| [baza-cwiczen.md](baza-cwiczen.md) | nowe ćwiczenia z analizą dowodów |
+| [lifestyle.md](lifestyle.md) | dieta roślinna, białko, przepisy |
+| [plany-historyczne.md](plany-historyczne.md) | dawne plany trenerów, mobility Plan 5 |
 
-## Jak ustalić, co dziś
+## Co i gdzie zapisujesz (wszystko w TRENING.md)
 
-1. Otwórz najnowszy plik w `raporty/` (nazwa = data niedzieli, w której powstał). Tabela „Plan treningowy” mówi, która sesja (A/B/C albo mobility) wypada na dziś i z jakim ciężarem.
-2. Sprawdź w `historia.md`, jaka sesja była ostatnia. Jeśli Kuba opuścił dzień, rotacja przesuwa się, a nie przeskakuje: robi następną sesję z kolejki, nie tę z kalendarza.
-3. Ciężar startowy bierz z „Ostatnich punktów odniesienia” w `historia.md`, chyba że raport tygodniowy mówi inaczej. Ciężar w górę (+2,5–5%) tylko gdy ostatnio był RIR ≥3 przy górnym zakresie powtórzeń.
+- **Wynik ćwiczenia:** od razu po ćwiczeniu, w sekcji 5 „Historia sesji”, w formacie podanym nad listą. Jedna linia na sesję, uzupełniana po każdym ćwiczeniu.
+- **Po sesji:** zmęczenie 1–10 do wpisu sesji, nowe ciężary w sekcji 6 „Punkty odniesienia”, „Następna sesja” pod historią.
+- **Każda zmiana (upgrade):** nowy ciężar w planie, zamiana ćwiczenia, zmiana serii, nowa zasada od Kuby. Wpisz ją w odpowiednią sekcję i dodaj linię z datą do sekcji 8 „Dziennik zmian”.
+- **Nowe ćwiczenie:** link YT do sekcji 7, a jeśli to coś spoza planu, analiza w baza-cwiczen.md.
 
-## Jak prowadzić sesję (zasady Kuby, zawsze)
+Nie zmieniaj planu ani zasad bez zgody Kuby. Nie kasuj starych wpisów; błąd poprawiasz nowym wpisem.
 
-1. Na start zapytaj o energię 1–10 i ból.
-2. Podaj **jedno** ćwiczenie: serie, powtórzenia, ciężar, przerwa i link do filmiku YT z techniką (z `filmy.md`). Nie wypisuj całej sesji z góry.
-3. Kuba robi ćwiczenie. Zapytaj, jak poszło: powtórzenia, ciężar, RIR, ból.
-4. **Od razu zapisz wynik** w `historia.md` (format niżej) i commituj. Dopiero potem podaj kolejne ćwiczenie.
-5. Na koniec zapytaj o zmęczenie 1–10 i dopisz je do wpisu sesji.
+## Synchronizacja
 
-Dla nowego ćwiczenia znajdź filmik zawczasu i dopisz go do `filmy.md`. Nowe ćwiczenie bez danych: pierwsza seria zachowawczo, korekta wg RIR.
+Repo: `https://github.com/damtio/trener`, gałąź `main`. Claude zapisuje do tej samej gałęzi.
 
-## Pojęcia i konwencje
-
-- **RIR** = powtórzenia w zapasie. Energia przed i zmęczenie po to dwie osobne skale 1–10.
-- **Hantle:** ciężar na jeden hantel. **Sztanga:** z gryfem. **Trap-bar:** talerze na stronę. **Glute Drive:** blachy na stronę.
-- „Brak danych” to nie zero i nie „bez bólu”. Nie zgaduj brakujących liczb, pisz „brak danych”.
-- „Według polecenia” = wykonane, ale bez nowych liczb.
-- Farmer jest pominięty przez dawne pęknięcie dłoni. Nie przywracaj go sam.
-- Daty w tekście jako `D.MM` (np. 5.10), w nazwach plików `RRRR-MM-DD`.
-- Język: polski, bez lania wody.
-
-## Format zapisu w historia.md
-
-Jedna linia na sesję w sekcji „Sesje”, uzupełniana po każdym ćwiczeniu:
-
+Pierwszy raz:
 ```
-- 5.10 C (rotacja 1): energia 8, bez bólu. Skok w dal 4×3, najlepszy ~220 cm. Goblet 22 kg 3×8 (RIR 4–5). ... Zmęczenie po: 6.
+git clone https://github.com/damtio/trener.git
 ```
 
-Po sesji zaktualizuj „Ostatnie punkty odniesienia” (nowy ciężar i data) i zdanie „Następna sesja: …”.
+Przed każdą sesją i przed każdym zapisem:
+```
+git pull --rebase origin main
+```
 
-## Niedzielny raport tygodniowy
+Po każdym zapisie (czyli po każdym ćwiczeniu):
+```
+git add TRENING.md
+git commit -m "Sesja A 7.10: skos sztangą"
+git push origin main
+```
 
-Co niedzielę nowy plik `raporty/RRRR-MM-DD.md` (data tej niedzieli). Wzór: najnowszy raport. Zawiera:
+Jeśli push się nie uda, bo ktoś zapisał w międzyczasie: `git pull --rebase origin main`, popraw konflikt w TRENING.md tak, żeby zostały **oba** wpisy, i znowu `git push`. Jedną sesję prowadzi jeden trener, więc konflikty powinny być rzadkie.
 
-1. **Co było w tym tygodniu:** sesje z `historia.md`, najlepsze wyniki, czego brakuje.
-2. **Plan treningowy:** tabela pon–ndz na przyszły tydzień (sesja, ćwiczenia, ciężary) i krótkie „dlaczego tak”. Bierz pod uwagę zmęczenie, samopoczucie, rękę i BJJ.
-3. **Przepisy:** 2–3 roślinne, z liczbą gramów białka (pełne wersje do `lifestyle.md`).
-4. **Do posłuchania/przeczytania:** 1–2 artykuły lub podcasty (samorozwój, żywienie, historia).
-5. **Coś ekstra:** coś zaskakującego, wyzwanie albo nowe ćwiczenie z bazy.
-
-Przed raportem przeczytaj 1–2 rzetelne źródła (badania, przeglądy, uznani autorzy). Nowe ćwiczenie trafia do `baza-cwiczen.md` tylko z analizą dowodów i filmikiem, wg szablonu w tym pliku. Zmiany w planie wynikające z raportu wpisz też do `plan-ab.md`.
-
-## Zasady pracy z repo
-
-- Przed każdym zapisem zrób `git pull`, bo w repo pisze też Claude.
-- Małe commity z opisem po polsku, np. `Sesja C 5.10: goblet, hantle płasko`.
-- Nie przepisuj historii i nie kasuj starych wpisów. Błędy poprawiaj nowym wpisem lub skreśleniem.
-- Nie zmieniaj planu ani zasad bez zgody Kuby. Proponuj, a wpisuj po akceptacji.
+Opisy commitów po polsku, krótko: co i kiedy.

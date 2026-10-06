@@ -1,6 +1,6 @@
 # Baza ćwiczeń
 
-Nowe ćwiczenia sprawdzone pod kątem BJJ i celów Kuby (siła, moc, klatka i ramiona, odporność na kontuzje). Każde przed dodaniem ma: po co, dowody, dla kogo/kiedy uważać, jak wpiąć w plan, filmik z techniką. Ćwiczenia z aktualnego planu i ich filmiki: [filmy.md](filmy.md).
+Nowe ćwiczenia sprawdzone pod kątem BJJ i celów Kuby (siła, moc, klatka i ramiona, odporność na kontuzje). Każde przed dodaniem ma: po co, dowody, dla kogo/kiedy uważać, jak wpiąć w plan, filmik z techniką. Ćwiczenia z aktualnego planu i ich filmiki: [TRENING.md](TRENING.md) (sekcja 7).
 
 Szablon wpisu: **nazwa**, cel, dowody (źródła), przeciwwskazania, dawkowanie, gdzie w planie, filmik, data dodania.
 
