@@ -2,15 +2,14 @@
 
 Notatki treningowe Kuby: siła i moc pod BJJ, powrót po ~4 miesiącach przerwy, rozwój klatki i ramion. Plan ma być różnorodny i nie przemęczać obok treningów BJJ.
 
-Eksport pamięci projektu „Trener” z 30.09.2026.
+Z repo korzystają dwaj trenerzy: Claude i Hermes. Obaj czytają i zapisują te same pliki.
 
 ## Pliki
 
-- [zasady-prowadzenia.md](zasady-prowadzenia.md): jak prowadzimy trening, rejestrowanie, filmiki YT z techniką, niedzielny plan tygodnia
-- [plan-ab.md](plan-ab.md): aktualny plan (rotacja A/B/C), wcześniejszy plan A/B i progresja
-- [historia.md](historia.md): historia sesji i ostatnie punkty odniesienia
-- [plany-historyczne.md](plany-historyczne.md): dawne plany trenerów (1–5, w tym mobility) i maile od trenera
+- [TRENING.md](TRENING.md): **jedyne źródło prawdy**. Zasady, aktualny plan, plan tygodnia, historia sesji, punkty odniesienia, filmiki, dziennik zmian. Tu lądują wszystkie wyniki.
+- [CHARAKTER.md](CHARAKTER.md): charakter trenera, wspólny dla Claude'a i Hermesa
+- [HERMES.md](HERMES.md): instrukcja dla Hermesa i zasady synchronizacji przez git
+- [raporty/](raporty/): cotygodniowe raporty (plan tygodnia, przepisy, artykuły, coś ekstra)
 - [baza-cwiczen.md](baza-cwiczen.md): nowe ćwiczenia sprawdzone pod BJJ, z dowodami i filmikiem
 - [lifestyle.md](lifestyle.md): żywienie roślinne pod sport, białko, przepisy
-- [filmy.md](filmy.md): filmiki z techniką do ćwiczeń z planu
-- [raporty/](raporty/): cotygodniowe raporty (plan tygodnia, przepisy, artykuły, coś ekstra)
+- [plany-historyczne.md](plany-historyczne.md): dawne plany trenerów (1–5, w tym mobility) i maile od trenera
