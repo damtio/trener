@@ -70,8 +70,9 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 30.09 A3 (bez telefonu): pompki na ławce 3×4, reszta A poza wyciskaniem hantli (zapomniane); Pallof zrobiony.
 - 2.10 B (rotacja 1): energia 8, bez bólu. Skrzynia 61 cm 4+3+3. Trap-bar zajęty, zamiast niego martwy klasyczny 70 kg ×5 (RIR 5–6) i 90 kg ×3 (RIR brak danych). Bułgarski 10 kg 2×8 (RIR 4–5). Wznosy łydek na podwyższeniu 12 kg 2×12 (zamiast skocznych). Hip thrust Glute Drive 20 kg blach/str ×8 (RIR 4), 2. seria bez wyniku. Zmęczenie po: brak danych.
 - 5.10 C (rotacja 1): energia 8, bez bólu. Skok w dal z miejsca 4×3, najlepszy ~220 cm (pierwszy test). Goblet 22 kg 3×8 (RIR 4–5). Hantle płasko 20 kg 6, 8, 8 (RIR 3 w ostatniej). RDL hantle 22 kg 3×8 (RIR ~5). Biceps hantle 12 kg ×10 (RIR 2). Triceps wyciąg 15 kg ×15 (RIR 3–4). Pallof 2×10/str. Zmęczenie po: 6, bez bólu.
+- 10.10 A (rotacja 2, przesunięta z 7.10; 7.10 i 9.10 bez treningu): energia 8, bez bólu. Plyo pompki na ławce 4×5, bez bólu.
 
-**Następna sesja:** A (śr 7.10).
+**Następna sesja:** B.
 
 ## 6. Punkty odniesienia (ostatni ciężar i cel na następny raz)
 
@@ -79,7 +80,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 |---|---|---|
 | Skok w dal | ~220 cm (5.10) | pobić |
 | Skok na skrzynię | 61 cm, 4+3+3 (2.10) | 61 cm 4×3 |
-| Plyo pompki / pompki na ławce | 3×4 (30.09) | 4×3–5 |
+| Plyo pompki / pompki na ławce | 4×5 (10.10) | 4×5, niższa ławka lub podłoga |
 | Pompki | 12+10, RIR 3–4 | |
 | Skos sztanga | 40 kg, 8+7, RIR ~3 | 40 kg |
 | Hantle płasko | 20 kg 6, 8, 8, RIR 3 (5.10) | 20 kg, cel 3×10 |
