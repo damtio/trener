@@ -70,7 +70,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 30.09 A3 (bez telefonu): pompki na ławce 3×4, reszta A poza wyciskaniem hantli (zapomniane); Pallof zrobiony.
 - 2.10 B (rotacja 1): energia 8, bez bólu. Skrzynia 61 cm 4+3+3. Trap-bar zajęty, zamiast niego martwy klasyczny 70 kg ×5 (RIR 5–6) i 90 kg ×3 (RIR brak danych). Bułgarski 10 kg 2×8 (RIR 4–5). Wznosy łydek na podwyższeniu 12 kg 2×12 (zamiast skocznych). Hip thrust Glute Drive 20 kg blach/str ×8 (RIR 4), 2. seria bez wyniku. Zmęczenie po: brak danych.
 - 5.10 C (rotacja 1): energia 8, bez bólu. Skok w dal z miejsca 4×3, najlepszy ~220 cm (pierwszy test). Goblet 22 kg 3×8 (RIR 4–5). Hantle płasko 20 kg 6, 8, 8 (RIR 3 w ostatniej). RDL hantle 22 kg 3×8 (RIR ~5). Biceps hantle 12 kg ×10 (RIR 2). Triceps wyciąg 15 kg ×15 (RIR 3–4). Pallof 2×10/str. Zmęczenie po: 6, bez bólu.
-- 10.10 A (rotacja 2, przesunięta z 7.10; 7.10 i 9.10 bez treningu): energia 8, bez bólu. Plyo pompki na ławce 4×5, bez bólu.
+- 10.10 A (rotacja 2, przesunięta z 7.10; 7.10 i 9.10 bez treningu): energia 8, bez bólu. Plyo pompki na ławce 4×5, bez bólu. Wyciskanie hantli na skosie (zamiast sztangi, prośba Kuby) 3×6, bez bólu; ciężar (start 16 kg) i RIR: brak danych.
 
 **Następna sesja:** B.
 
@@ -83,6 +83,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Plyo pompki / pompki na ławce | 4×5 (10.10) | 4×5, niższa ławka lub podłoga |
 | Pompki | 12+10, RIR 3–4 | |
 | Skos sztanga | 40 kg, 8+7, RIR ~3 | 40 kg |
+| Hantle skos | 3×6 (10.10), ciężar brak danych | |
 | Hantle płasko | 20 kg 6, 8, 8, RIR 3 (5.10) | 20 kg, cel 3×10 |
 | Podciąganie | 3×4 (30.09) | 3×4–5 |
 | Dipy | brak danych | masa ciała, zachowawczo |
@@ -102,7 +103,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 
 ## 7. Filmiki z techniką (YT)
 
-**A góra:** [plyo pompki](https://www.youtube.com/watch?v=GR0ZL7f7u18) · [skos sztangą](https://www.youtube.com/watch?v=O9x7xRhtA9Q) · [podciąganie neutralne](https://www.youtube.com/watch?v=8klSksDvNl4) · [dipy](https://www.youtube.com/watch?v=oA8Sxv2WeOs) · [wiosło z podparciem](https://www.youtube.com/watch?v=kX4gtPQeyb8) · [unoszenie bokiem](https://www.youtube.com/watch?v=Y29xKcze8Ik)
+**A góra:** [plyo pompki](https://www.youtube.com/watch?v=GR0ZL7f7u18) · [skos sztangą](https://www.youtube.com/watch?v=O9x7xRhtA9Q) · [podciąganie neutralne](https://www.youtube.com/watch?v=8klSksDvNl4) · [dipy](https://www.youtube.com/watch?v=oA8Sxv2WeOs) · [wiosło z podparciem](https://www.youtube.com/watch?v=kX4gtPQeyb8) · [unoszenie bokiem](https://www.youtube.com/watch?v=Y29xKcze8Ik) · [hantle skos](https://www.youtube.com/watch?v=5iACxPVXKGg)
 
 **B dół:** [skok na skrzynię](https://www.youtube.com/watch?v=G-bxQY57mKc) · [trap-bar](https://www.youtube.com/watch?v=EsqwERaSTMI) · [bułgarski](https://www.youtube.com/watch?v=hiLF_pF3EJM) · [hip thrust](https://www.youtube.com/watch?v=pBH7pKHn-dI) · [skoczne łydki (pogo)](https://www.youtube.com/watch?v=j0nl5dWuqN4)
 
@@ -118,6 +119,7 @@ Nowe ćwiczenie = najpierw link tutaj. Analiza dowodów dla nowych: [baza-cwicze
 - 2.10: trap-bar zajęty → martwy klasyczny jako zamiennik; łydki skoczne → wznosy na podwyższeniu.
 - 4.10: Nordic curl do sesji B od 9.10.
 - 5.10: 3 serie w ciężkich od tej sesji (brak BJJ w tygodniu). Front squat pomijany, goblet zostaje.
+- 10.10: skos sztangą → hantle na skosie (prośba Kuby, ławka ~30°).
 - 6.10: wszystko w jednym pliku TRENING.md, wspólnym dla Claude'a i Hermesa.
 
 ## Archiwum: wcześniejszy plan A/B (przed 30.09)
