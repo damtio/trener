@@ -25,6 +25,18 @@ Wiedza i przepisy dopasowane do Kuby: siła i moc pod BJJ, budowa mięśni klatk
 **Kalorie (szacunek, do weryfikacji wagą):** przy 81,5 kg i 3–4 treningach tygodniowo utrzymanie to orientacyjnie 2 800–3 100 kcal (stary plan Karsta zakładał 3 000 kcal). Na powolny przyrost masy (+0,25–0,5 kg/mies.) dodaj ~200–300 kcal ponad utrzymanie. Kontrola: waga raz w tygodniu rano, średnia z 2 tygodni; brak zmiany przez 3 tygodnie oznacza +150 kcal.
 
 
+## Aktualizacja 11.10.2026: soja a testosteron
+
+Popularny mit mówi, że tofu i soja obniżają testosteron. Metaanaliza 41 badań klinicznych (Reed i in., Reproductive Toxicology 2021) nie znalazła wpływu ani produktów sojowych, ani izoflawonów na testosteron, wolny testosteron ani estrogeny u mężczyzn, także przy wysokich dawkach ([UMN](https://experts.umn.edu/en/publications/neither-soy-nor-isoflavone-intake-affects-male-reproductive-hormo/)). Nowsza metaanaliza z 2025 r. dochodzi do tego samego ([Food Frontiers 2025](https://iadns.onlinelibrary.wiley.com/doi/full/10.1002/fft2.70090)).
+
+**Wniosek dla Kuby:** tofu, tempeh, edamame i mleko sojowe możesz jeść codziennie bez obaw o hormony. Soja ma pełny profil aminokwasów i najwięcej leucyny wśród popularnych roślin, więc to Twoje najlepsze źródło białka.
+
+## Aktualizacja 11.10.2026: sen jako narzędzie regeneracji
+
+Koszykarze ze Stanfordu, którzy przez 5–7 tygodni starali się spać ~10 h na dobę, poprawili czas sprintu i celność rzutów o ok. 9% ([Mah i in., Sleep 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3119836/)). Badanie jest małe (11 osób, bez grupy kontrolnej), więc traktuj to jako wskazówkę, nie pewnik. Praktycznie: 8–9 h w łóżku, stała pora wstawania, kofeina najpóźniej do 14:00.
+
+## Przepisy
+
 ### Tofu scramble z ciecierzycą (śniadanie, ~40 g białka, wegańskie)
 200 g tofu twardego pokruszyć na patelni z oliwą, dodać kurkumę, słodką paprykę, szczyptę kala namak (smak jajka), 100 g ciecierzycy z puszki, garść szpinaku. Podać z 2 kromkami żytniego chleba i pomidorem.
 
@@ -42,3 +54,12 @@ Cebula, czosnek, imbir i 2 łyżki pasty curry na oleju. 400 g tofu twardego w k
 
 ### Makaron z czerwonej soczewicy ze szpinakiem i serkiem wiejskim (wegetariańskie, ~45 g białka, 15 min)
 100 g makaronu z czerwonej soczewicy ugotować. Na patelni czosnek, pomidorki koktajlowe, 2 garście szpinaku. Wymieszać z makaronem i 200 g serka wiejskiego, doprawić pieprzem, chili i świeżą bazylią. Wegańsko: serek zamień na 150 g pokruszonego tofu z łyżką płatków drożdżowych.
+
+### Wrap z seitanem po grecku (obiad, ~45 g białka, wegańskie, 15 min)
+120 g seitanu w paskach podsmażyć z oregano, papryką wędzoną, czosnkiem i sokiem z cytryny. Zawinąć w dużą pełnoziarnistą tortillę z sałatą, pomidorem, czerwoną cebulą i 100 g „tzatziki” z wysokobiałkowego jogurtu sojowego, ogórka i czosnku. Wegetariańsko: tzatziki na skyrze daje +6 g białka.
+
+### Miska z edamame, quinoą i jajkami (wegetariańska, ~35 g białka)
+60 g quinoi (sucha waga) ugotować. 100 g edamame, 2 jajka na miękko, 50 g hummusu, ogórek, marchewka, sos: sos sojowy, sok z limonki, łyżeczka miodu, sezam. Wegańsko: jajka zamień na 100 g tofu wędzonego (+3 g białka).
+
+### Shake potreningowy (wegański, ~40 g białka, 2 min)
+300 ml mleka sojowego, 30 g odżywki białkowej grochowej lub sojowej, banan, łyżka masła orzechowego, garść płatków owsianych, cynamon. Zmiksować. Dobry, gdy po treningu nie ma czasu na posiłek.

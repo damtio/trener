@@ -25,3 +25,13 @@ Szablon wpisu: **nazwa**, cel, dowody (źródła), przeciwwskazania, dawkowanie,
 - **Gdzie w planie:** koniec sesji B, od rotacji 2 (9.10). Partner albo zaczepienie stóp pod drążkiem lub maszyną.
 - **Filmik:** [How to Set Up, Perform & Program Nordic Hamstring Curls](https://www.youtube.com/watch?v=_e9vFU9-tkc)
 - **Dodano:** 4.10.2026
+
+## Rotacja zewnętrzna barku z gumą (stojąc, łokieć przy boku)
+
+- **Cel:** wzmocnienie rotatorów zewnętrznych (stożek rotatorów) jako przeciwwaga dla dużej ilości pchania w planie (pompki, skos, płasko, dipy). W BJJ bark jest często szarpany w rotacji wewnętrznej (kimura, americana), więc zdrowy i silny stożek to dobra polisa. Bezpośredni powód: 10.10 lekki ból góry lewego barku po dipach.
+- **Dowody:** randomizowane badanie na 660 piłkarzach ręcznych (Andersson i in., BJSM 2017) z programem OSTRC, którego rdzeniem są ćwiczenia rotacji zewnętrznej z gumą, łopatki i mobilność odcinka piersiowego. Wynik: o ok. 28% mniej problemów z barkiem ([PDF, OSTRC](https://ostrc.no/globalassets/publications/andersson_2016_bjsm_preventing-overuse-shoulder-injuries-among-throwing-athletes.pdf)). Konsensus z Berna z 2022 r. zaleca takie programy sportowcom ([JOSPT 2022](https://www.jospt.org/doi/10.2519/jospt.2022.10952)). Uczciwie: inne RCT na młodzieży (JOSPT 2021) nie pokazało przewagi samej rotacji zewnętrznej przez 8 tygodni ([JOSPT 2021](https://www.jospt.org/doi/10.2519/jospt.2021.9957)). Dowody dotyczą sportów rzutowych, nie grapplingu. Wniosek: tanie, bezpieczne i sensowne, ale nie leczy samo z siebie bólu po dipach, tam ważniejsza jest zmiana dipów (płycej albo pompki).
+- **Uważać:** ból w trakcie powyżej 2/10, wtedy lżejsza guma. Ból góry barku, który nie mija po tygodniu bez dipów, to sygnał do fizjoterapeuty.
+- **Dawkowanie:** 2×15/str z lekką gumą, wolno (2 s w każdą stronę), łokieć przyklejony do boku (np. ręcznik pod pachą). 2–3×/tydz., najwygodniej w rozgrzewce A i C.
+- **Gdzie w planie:** rozgrzewka sesji A od 16.10, opcjonalnie też w C.
+- **Filmik:** [Banded Shoulder External Rotation](https://www.youtube.com/watch?v=ybNV36DoRfY)
+- **Dodano:** 11.10.2026

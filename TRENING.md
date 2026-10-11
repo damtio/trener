@@ -54,10 +54,11 @@ Moc na początku sesji. Wejście stopniowe:
 
 Pełny raport: najnowszy plik w [raporty/](raporty/). Niedzielny routine nadpisuje tę sekcję.
 
-**5–11.10.2026:** pon 5.10 C ✓ · wt mobility D1 · śr 7.10 A (3 serie RIR 3) · czw mobility D2 · pt 9.10 B (rot. 2, 3 serie RIR 3, Nordic curl 2×3) · sob mobility D3 lub wolne · ndz 11.10 C (rot. 2, 3 serie) albo pon 12.10, jeśli zmęczenie ≥7.
+**12–18.10.2026 (rotacja 2: B, C, A; 3 serie RIR 3):** pon 12.10 B · wt mobility D1 · śr 14.10 C · czw mobility D2 · pt 16.10 A · sob mobility D3 lub wolne · ndz 18.10 B (rotacja 3) tylko jeśli energia ≥7, inaczej pon 19.10.
 
-Ciężary na A 7.10: skos sztangą 40 kg · podciąganie neutralne masa ciała · dipy masa ciała (nowe, zachowawczo) · wiosło 17,5 kg · bokiem 7,5 kg.
-Ciężary na B 9.10: skrzynia 61 cm · trap-bar 27,5 kg/str (zajęty: martwy 80 kg 3×5) · bułgarski 12 kg · hip thrust Glute Drive 25 kg/str · łydki skoczne · Nordic 2×3 z asekuracją.
+Ciężary na B 12.10: skrzynia 61 cm 4×3 · trap-bar 27,5 kg/str 3×5 (zajęty: martwy 80 kg 3×5) · bułgarski 12 kg 3×8/str · hip thrust Glute Drive 25 kg/str 3×8 · łydki skoczne 2×15 · Nordic 2×3 z asekuracją.
+Ciężary na C 14.10: skok w dal 4×3 (pobić 220 cm) · goblet 24 kg 3×8 · hantle płasko 20 kg 3×8–10 · RDL hantle 26 kg 3×8 · biceps 12 kg + triceps wyciąg 17,5 kg 2×10–12 · Pallof 2×10/str.
+Ciężary na A 16.10: rozgrzewka + rotacja zewnętrzna z gumą 2×15/str · plyo pompki 4×5 · hantle skos 20 kg 3×8 · podciąganie neutralne 3×4 · dipy płytkie (do 90° w łokciu) 3×6 tylko bez bólu barku, inaczej pompki 3×10–12 · wiosło 18 kg 3×10 · bokiem 6 kg 3×12 do wysokości barków.
 
 ## 5. Historia sesji
 
@@ -72,7 +73,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 5.10 C (rotacja 1): energia 8, bez bólu. Skok w dal z miejsca 4×3, najlepszy ~220 cm (pierwszy test). Goblet 22 kg 3×8 (RIR 4–5). Hantle płasko 20 kg 6, 8, 8 (RIR 3 w ostatniej). RDL hantle 22 kg 3×8 (RIR ~5). Biceps hantle 12 kg ×10 (RIR 2). Triceps wyciąg 15 kg ×15 (RIR 3–4). Pallof 2×10/str. Zmęczenie po: 6, bez bólu.
 - 10.10 A (rotacja 2, przesunięta z 7.10; 7.10 i 9.10 bez treningu): energia 8, bez bólu. Plyo pompki na ławce 4×5, bez bólu. Wyciskanie hantli na skosie (zamiast sztangi, prośba Kuby) 20 kg/rękę 3×6, bez bólu; RIR brak danych. Podciąganie neutralne masa ciała 4, 4, 3 (RIR 1–2), bez bólu. Dipy masa ciała 3×6 (pierwszy raz), RIR brak danych; lekki ból lewego barku, góra barku, 2/10. Wiosło hantlami z podparciem 18 kg 3×8 (RIR 3), bez bólu. Unoszenie bokiem 6 kg 3×10 (do wysokości barków, ostrożnie przez bark), bez bólu.
 
-**Następna sesja:** B.
+**Następna sesja:** B (pon 12.10).
 
 ## 6. Punkty odniesienia (ostatni ciężar i cel na następny raz)
 
@@ -86,7 +87,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Hantle skos | 20 kg 3×6 (10.10) | 20 kg, cel 3×8 |
 | Hantle płasko | 20 kg 6, 8, 8, RIR 3 (5.10) | 20 kg, cel 3×10 |
 | Podciąganie | 4, 4, 3, RIR 1–2 (10.10) | 3×4, bez podbijania |
-| Dipy | masa ciała 3×6, lekki ból lewego barku (10.10) | najpierw sprawdzić bark; jeśli boli, pompki zamiast |
+| Dipy | masa ciała 3×6, lekki ból lewego barku (10.10) | płytko (do 90° w łokciu) tylko bez bólu; jeśli boli, pompki 3×10–12 |
 | Wiosło z podparciem | 18 kg 3×8, RIR 3 (10.10) | 18 kg, cel 3×10 |
 | Unoszenie bokiem | 6 kg 3×10, bez bólu (10.10) | 6–7,5 kg wg barku, do wysokości barków |
 | Trap-bar | 25 kg/str 6+6, RIR 4–5 (28.09) | 27,5 kg/str |
@@ -94,12 +95,13 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Bułgarski | 10 kg 2×8, RIR 4–5 (2.10) | 12 kg |
 | Hip thrust Glute Drive | 20 kg/str ×8, RIR 4 (2.10) | 25 kg/str |
 | Wznosy łydek | 12 kg 2×12 (2.10) | |
-| Goblet | 22 kg 3×8, RIR 4–5 (5.10) | 24–26 kg |
-| RDL | hantle 22 kg 3×8, RIR ~5 (5.10) | sztanga ~50 kg lub hantle 26–28 kg |
+| Goblet | 22 kg 3×8, RIR 4–5 (5.10) | 24 kg |
+| RDL | hantle 22 kg 3×8, RIR ~5 (5.10) | hantle 26 kg lub sztanga ~50 kg |
 | Biceps hantle | 12 kg ×10, RIR 2 (5.10) | 12 kg |
 | Triceps wyciąg | 15 kg ×15, RIR 3–4 (5.10) | 17,5 kg |
 | Triceps nad głową | 12,5 kg | |
 | Nordic curl | nowe | 2×3 z asekuracją |
+| Rotacja zewnętrzna z gumą | nowe | 2×15/str, lekka guma |
 
 ## 7. Filmiki z techniką (YT)
 
@@ -109,7 +111,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 
 **C całość:** [skok w dal](https://www.youtube.com/watch?v=CpmTk9kmdm8) · [goblet](https://www.youtube.com/watch?v=6mf0oa2GGUc) · [hantle płasko](https://www.youtube.com/watch?v=xhEhjF5ozuY) · [RDL hantlami](https://www.youtube.com/watch?v=hQgFixeXdZo) · [biceps hantle](https://www.youtube.com/watch?v=XE_pHwbst04) · [triceps wyciąg](https://www.youtube.com/watch?v=-zLyUAo1gMw) · [chaos Pallof](https://www.youtube.com/watch?v=qS6qXV5kI-Y)
 
-**Zamienniki i nowe:** [martwy klasyczny](https://www.youtube.com/watch?v=CWsxP4xat9M) · [Nordic curl](https://www.youtube.com/watch?v=_e9vFU9-tkc) · [Copenhagen adductor](https://www.youtube.com/watch?v=kD1t1hWzIDE)
+**Zamienniki i nowe:** [martwy klasyczny](https://www.youtube.com/watch?v=CWsxP4xat9M) · [Nordic curl](https://www.youtube.com/watch?v=_e9vFU9-tkc) · [Copenhagen adductor](https://www.youtube.com/watch?v=kD1t1hWzIDE) · [rotacja zewnętrzna z gumą](https://www.youtube.com/watch?v=ybNV36DoRfY) · [pompki](https://www.youtube.com/watch?v=IODxDxX7oi4)
 
 Nowe ćwiczenie = najpierw link tutaj. Analiza dowodów dla nowych: [baza-cwiczen.md](baza-cwiczen.md).
 
@@ -120,6 +122,7 @@ Nowe ćwiczenie = najpierw link tutaj. Analiza dowodów dla nowych: [baza-cwicze
 - 4.10: Nordic curl do sesji B od 9.10.
 - 5.10: 3 serie w ciężkich od tej sesji (brak BJJ w tygodniu). Front squat pomijany, goblet zostaje.
 - 10.10: skos sztangą → hantle na skosie (prośba Kuby, ławka ~30°).
+- 11.10: dipy tylko płytko i bez bólu barku, inaczej pompki; rotacja zewnętrzna z gumą 2×15/str w rozgrzewce A (i opcjonalnie C); RDL na 26 kg, goblet 24 kg.
 - 6.10: wszystko w jednym pliku TRENING.md, wspólnym dla Claude'a i Hermesa.
 
 ## Archiwum: wcześniejszy plan A/B (przed 30.09)
