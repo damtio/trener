@@ -35,6 +35,16 @@ Popularny mit mówi, że tofu i soja obniżają testosteron. Metaanaliza 41 bada
 
 Koszykarze ze Stanfordu, którzy przez 5–7 tygodni starali się spać ~10 h na dobę, poprawili czas sprintu i celność rzutów o ok. 9% ([Mah i in., Sleep 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3119836/)). Badanie jest małe (11 osób, bez grupy kontrolnej), więc traktuj to jako wskazówkę, nie pewnik. Praktycznie: 8–9 h w łóżku, stała pora wstawania, kofeina najpóźniej do 14:00.
 
+## Aktualizacja 18.10.2026: B12, żelazo i badanie krwi
+
+Przegląd systematyczny o wegetarianach w sporcie (Hernández-Lougedo i in., Nutrients 2023) wskazuje witaminę B12 jako składnik **najczęściej niedoborowy** u wegetariańskich sportowców; ryzyko dotyczy też żelaza i omega-3 ([MDPI](https://www.mdpi.com/2072-6643/15/21/4703)). Przegląd o weganach-sportowcach w PMC daje podobne wnioski ([PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10334161/)).
+
+**Wniosek dla Kuby:**
+1. **B12:** nabiał i jajka dają trochę, ale przy diecie z przewagą roślin najprościej suplementować (typowo 250 µg dziennie albo 2 000 µg raz w tygodniu, cyjanokobalamina). Tanie i bezpieczne.
+2. **Żelazo:** roślinne (niehemowe) wchłania się słabiej, więc łącz je z witaminą C (papryka, cytrusy, kiszonki do soczewicy, tofu, granulatu sojowego), a kawę i herbatę pij min. godzinę od posiłku. Suplement żelaza tylko po badaniu.
+3. **Badanie krwi raz w roku:** morfologia, ferrytyna, B12 (lub holoTC), witamina D. Wynik pokaże, czy coś zmieniać, zamiast zgadywać.
+4. **Omega-3:** siemię lniane lub orzechy włoskie codziennie; jeśli nie jesz ryb, rozważ olej z alg.
+
 ## Przepisy
 
 ### Tofu scramble z ciecierzycą (śniadanie, ~40 g białka, wegańskie)
@@ -63,3 +73,13 @@ Cebula, czosnek, imbir i 2 łyżki pasty curry na oleju. 400 g tofu twardego w k
 
 ### Shake potreningowy (wegański, ~40 g białka, 2 min)
 300 ml mleka sojowego, 30 g odżywki białkowej grochowej lub sojowej, banan, łyżka masła orzechowego, garść płatków owsianych, cynamon. Zmiksować. Dobry, gdy po treningu nie ma czasu na posiłek.
+
+### Chili sin carne z granulatem sojowym (na 3 porcje, ~40 g białka/porcja, wegańskie)
+Cebula, czosnek, papryka na oleju. Dodać 100 g granulatu sojowego (namoczony w bulionie), 2 puszki czerwonej fasoli, puszkę pomidorów, łyżkę koncentratu, kmin, paprykę wędzoną, chili, kostkę gorzkiej czekolady. Dusić 20 min. Podawać z ryżem i limonką. Granulat to jedno z najbogatszych w żelazo roślinnych źródeł, a papryka i limonka dają witaminę C do jego wchłaniania.
+
+### Pieczone tofu z sosem orzechowym i brokułem (obiad, ~40 g białka, wegańskie, 30 min)
+300 g tofu twardego odcisnąć, pokroić w kostkę, wymieszać z sosem sojowym i łyżką skrobi, piec 25 min w 200°C. Sos: 2 łyżki masła orzechowego, sos sojowy, limonka, odrobina syropu klonowego, woda. Podawać z brokułem na parze i 60 g (sucha waga) ryżu lub kaszy.
+
+### Pasta twarogowa z ciecierzycą na kanapki (wegetariańska, ~35 g białka, 5 min)
+250 g twarogu półtłustego rozgnieść z 100 g ciecierzycy z puszki, rzodkiewką, szczypiorem, solą i pieprzem. Na 2 kromki pełnoziarnistego chleba żytniego. Wegańsko: twaróg zamień na 200 g tofu naturalnego zblendowanego z łyżką soku z cytryny.
+

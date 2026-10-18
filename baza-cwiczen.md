@@ -35,3 +35,13 @@ Szablon wpisu: **nazwa**, cel, dowody (źródła), przeciwwskazania, dawkowanie,
 - **Gdzie w planie:** rozgrzewka sesji A od 16.10, opcjonalnie też w C.
 - **Filmik:** [Banded Shoulder External Rotation](https://www.youtube.com/watch?v=ybNV36DoRfY)
 - **Dodano:** 11.10.2026
+
+## Izometria szyi z oporem ręki (4 kierunki)
+
+- **Cel:** silniejsza szyja pod BJJ: utrzymanie postawy w gardzie, opór przy gilotynie i przy ściąganiu głowy w dół, mniej „szarpnięć” przy upadkach i rzutach. W planie nie ma dziś nic na szyję.
+- **Dowody:** przegląd z metaanalizą 26 prac (BJSM blog, 2024) pokazał duży przyrost izometrycznej siły szyi po treningu oporowym, ale brak jasnego dowodu, że sam trening szyi zmniejsza liczbę wstrząśnień mózgu ([BJSM blog](https://blogs.bmj.com/bjsm/2024/09/27/the-power-of-prevention-exploring-exercise-strategies-to-reduce-sport-related-concussion-risk/)). Międzynarodowy konsensus ekspertów (Fownes-Walpole i in., BJSM 2025, 21 badań + Delphi, 57 zaleceń) rekomenduje trening szyi w sportach kontaktowych, z naciskiem na regularność ([Leeds Beckett](https://eprints.leedsbeckett.ac.uk/id/eprint/12119)). Wniosek: siłę szyi da się łatwo zbudować, efekt ochronny jest prawdopodobny, ale niepotwierdzony. Kosztuje 4 minuty.
+- **Uważać:** robić izometrię, nie dynamiczne „kręcenie” z ciężarem ani mostki na głowie na start. Ból szyi, drętwienie lub mrowienie rąk = stop i konsultacja.
+- **Dawkowanie:** ręka na czole, potylicy, potem po bokach głowy; głowa stoi w miejscu, docisk ~50–70% siły, narastająco przez 1–2 s. 2×10 s na kierunek, przerwa 30 s. 2–3×/tydz. Po 3–4 tygodniach 3×15 s.
+- **Gdzie w planie:** koniec rozgrzewki w sesjach C i B (A ma już rotację zewnętrzną).
+- **Filmik:** [How To Do Isometric Neck Exercises](https://www.youtube.com/watch?v=ZqWEXUULB7M)
+- **Dodano:** 18.10.2026
