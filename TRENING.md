@@ -73,7 +73,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 5.10 C (rotacja 1): energia 8, bez bólu. Skok w dal z miejsca 4×3, najlepszy ~220 cm (pierwszy test). Goblet 22 kg 3×8 (RIR 4–5). Hantle płasko 20 kg 6, 8, 8 (RIR 3 w ostatniej). RDL hantle 22 kg 3×8 (RIR ~5). Biceps hantle 12 kg ×10 (RIR 2). Triceps wyciąg 15 kg ×15 (RIR 3–4). Pallof 2×10/str. Zmęczenie po: 6, bez bólu.
 - 10.10 A (rotacja 2, przesunięta z 7.10; 7.10 i 9.10 bez treningu): energia 8, bez bólu. Plyo pompki na ławce 4×5, bez bólu. Wyciskanie hantli na skosie (zamiast sztangi, prośba Kuby) 20 kg/rękę 3×6, bez bólu; RIR brak danych. Podciąganie neutralne masa ciała 4, 4, 3 (RIR 1–2), bez bólu. Dipy masa ciała 3×6 (pierwszy raz), RIR brak danych; lekki ból lewego barku, góra barku, 2/10. Wiosło hantlami z podparciem 18 kg 3×8 (RIR 3), bez bólu. Unoszenie bokiem 6 kg 3×10 (do wysokości barków, ostrożnie przez bark), bez bólu.
 - 15.10 B (rotacja 2; 12.10 i 14.10 bez treningu): energia 7, bez bólu. Skok na skrzynię 4×3: 1. seria 60 cm, 3 kolejne 90 cm (potwierdzone przez Kubę), technicznie, bez bólu. Trap-bar 27,5 kg/str 3×5 (RIR 5), ból brak danych. Bułgarski 12 kg 3×8/str (RIR ~2), ból brak danych. Hip thrust (stanowisko zajęte, zrobione później; zakładam Glute Drive 25 kg/str 3×8, do potwierdzenia) RIR 5. Łydki skoczne (pogo) 2×15, bardzo lekko (RIR ~10 wg Kuby). Nordic curl zrobiony, „dobrze” wg Kuby (liczby brak danych). Zmęczenie po: brak danych.
-- 20.10 C (rotacja 2; 19.10 bez treningu): energia 8, ból brak danych. Rozgrzewka + izometria szyi. Skok w dal 4×3: wynik „podobny”, pomiar telefonem ~230 cm (niepewny); po 3. serii odczucie w górnej części prawego uda, ~2/10 tylko w spoczynku (Kuba napisał „2/8”, czytam jako 2/10). Goblet 24 kg 3×8 (RIR 5); w 3. serii ból prawego uda 6/10 → RDL dziś pominięty (decyzja trenera), dalej tylko góra i core. Hantle płasko 20 kg 3×8 (RIR 3 w ostatniej), ból udo w spoczynku brak danych.
+- 20.10 C (rotacja 2; 19.10 bez treningu): energia 8, ból brak danych. Rozgrzewka + izometria szyi. Skok w dal 4×3: wynik „podobny”, pomiar telefonem ~230 cm (niepewny); po 3. serii odczucie w górnej części prawego uda, ~2/10 tylko w spoczynku (Kuba napisał „2/8”, czytam jako 2/10). Goblet 24 kg 3×8 (RIR 5); w 3. serii ból prawego uda 6/10 → RDL dziś pominięty (decyzja trenera), dalej tylko góra i core. Hantle płasko 20 kg 3×8 (RIR 3 w ostatniej), ból udo w spoczynku brak danych. Biceps hantle 12 kg + triceps wyciąg 17,5 kg 2×8 (RIR 3; podane łącznie).
 
 **Następna sesja:** A (czw 22.10), potem B (sob 24.10).
 
@@ -100,8 +100,8 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Łydki skoczne (pogo) | 2×15, bardzo lekko (15.10) | 2×20 albo jednonóż 2×10/str |
 | Goblet | 24 kg 3×8, RIR 5, ból prawego uda 6/10 w 3. serii (20.10) | 24 kg, tylko jeśli udo bez bólu |
 | RDL | hantle 22 kg 3×8, RIR ~5 (5.10) | hantle 26 kg lub sztanga ~50 kg |
-| Biceps hantle | 12 kg ×10, RIR 2 (5.10) | 12 kg |
-| Triceps wyciąg | 15 kg ×15, RIR 3–4 (5.10) | 17,5 kg |
+| Biceps hantle | 12 kg 2×8, RIR 3 (20.10) | 12 kg, cel 2×10 |
+| Triceps wyciąg | 17,5 kg 2×8, RIR 3 (20.10) | 17,5 kg, cel 2×10 |
 | Triceps nad głową | 12,5 kg | |
 | Nordic curl | zrobiony, „dobrze” (15.10) | 2×3 z asekuracją, kontrola zejścia |
 | Rotacja zewnętrzna z gumą | nowe | 2×15/str, lekka guma |
