@@ -73,7 +73,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 5.10 C (rotacja 1): energia 8, bez bólu. Skok w dal z miejsca 4×3, najlepszy ~220 cm (pierwszy test). Goblet 22 kg 3×8 (RIR 4–5). Hantle płasko 20 kg 6, 8, 8 (RIR 3 w ostatniej). RDL hantle 22 kg 3×8 (RIR ~5). Biceps hantle 12 kg ×10 (RIR 2). Triceps wyciąg 15 kg ×15 (RIR 3–4). Pallof 2×10/str. Zmęczenie po: 6, bez bólu.
 - 10.10 A (rotacja 2, przesunięta z 7.10; 7.10 i 9.10 bez treningu): energia 8, bez bólu. Plyo pompki na ławce 4×5, bez bólu. Wyciskanie hantli na skosie (zamiast sztangi, prośba Kuby) 20 kg/rękę 3×6, bez bólu; RIR brak danych. Podciąganie neutralne masa ciała 4, 4, 3 (RIR 1–2), bez bólu. Dipy masa ciała 3×6 (pierwszy raz), RIR brak danych; lekki ból lewego barku, góra barku, 2/10. Wiosło hantlami z podparciem 18 kg 3×8 (RIR 3), bez bólu. Unoszenie bokiem 6 kg 3×10 (do wysokości barków, ostrożnie przez bark), bez bólu.
 - 15.10 B (rotacja 2; 12.10 i 14.10 bez treningu): energia 7, bez bólu. Skok na skrzynię 4×3: 1. seria 60 cm, 3 kolejne 90 cm (potwierdzone przez Kubę), technicznie, bez bólu. Trap-bar 27,5 kg/str 3×5 (RIR 5), ból brak danych. Bułgarski 12 kg 3×8/str (RIR ~2), ból brak danych. Hip thrust (stanowisko zajęte, zrobione później; zakładam Glute Drive 25 kg/str 3×8, do potwierdzenia) RIR 5. Łydki skoczne (pogo) 2×15, bardzo lekko (RIR ~10 wg Kuby). Nordic curl zrobiony, „dobrze” wg Kuby (liczby brak danych). Zmęczenie po: brak danych.
-- 20.10 C (rotacja 2; 19.10 bez treningu): energia 8, ból brak danych. Rozgrzewka + izometria szyi. Skok w dal 4×3: wynik „podobny”, pomiar telefonem ~230 cm (niepewny); po 3. serii odczucie w górnej części prawego uda, ~2/10 tylko w spoczynku (Kuba napisał „2/8”, czytam jako 2/10).
+- 20.10 C (rotacja 2; 19.10 bez treningu): energia 8, ból brak danych. Rozgrzewka + izometria szyi. Skok w dal 4×3: wynik „podobny”, pomiar telefonem ~230 cm (niepewny); po 3. serii odczucie w górnej części prawego uda, ~2/10 tylko w spoczynku (Kuba napisał „2/8”, czytam jako 2/10). Goblet 24 kg 3×8 (RIR 5); w 3. serii ból prawego uda 6/10 → RDL dziś pominięty (decyzja trenera), dalej tylko góra i core.
 
 **Następna sesja:** A (czw 22.10), potem B (sob 24.10).
 
@@ -98,7 +98,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Hip thrust Glute Drive | 25 kg/str 3×8, RIR 5 (15.10) | 30 kg/str |
 | Wznosy łydek | 12 kg 2×12 (2.10) | |
 | Łydki skoczne (pogo) | 2×15, bardzo lekko (15.10) | 2×20 albo jednonóż 2×10/str |
-| Goblet | 22 kg 3×8, RIR 4–5 (5.10) | 24 kg |
+| Goblet | 24 kg 3×8, RIR 5, ból prawego uda 6/10 w 3. serii (20.10) | 24 kg, tylko jeśli udo bez bólu |
 | RDL | hantle 22 kg 3×8, RIR ~5 (5.10) | hantle 26 kg lub sztanga ~50 kg |
 | Biceps hantle | 12 kg ×10, RIR 2 (5.10) | 12 kg |
 | Triceps wyciąg | 15 kg ×15, RIR 3–4 (5.10) | 17,5 kg |
@@ -128,6 +128,7 @@ Nowe ćwiczenie = najpierw link tutaj. Analiza dowodów dla nowych: [baza-cwicze
 - 10.10: skos sztangą → hantle na skosie (prośba Kuby, ławka ~30°).
 - 11.10: dipy tylko płytko i bez bólu barku, inaczej pompki; rotacja zewnętrzna z gumą 2×15/str w rozgrzewce A (i opcjonalnie C); RDL na 26 kg, goblet 24 kg.
 - 18.10: izometria szyi 2×10 s/kierunek w rozgrzewce C i B; od B 23.10 rotacja 3 (RIR 2–3 w ciężkich), trap-bar 30 kg/str, hip thrust 30 kg/str, skrzynia 90 cm, pogo 2×20.
+- 20.10: ból górnej części prawego uda (6/10 w gobletach) → RDL pominięty; B 24.10 zależne od uda.
 - 6.10: wszystko w jednym pliku TRENING.md, wspólnym dla Claude'a i Hermesa.
 
 ## Archiwum: wcześniejszy plan A/B (przed 30.09)
