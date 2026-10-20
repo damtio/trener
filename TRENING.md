@@ -73,7 +73,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 5.10 C (rotacja 1): energia 8, bez bólu. Skok w dal z miejsca 4×3, najlepszy ~220 cm (pierwszy test). Goblet 22 kg 3×8 (RIR 4–5). Hantle płasko 20 kg 6, 8, 8 (RIR 3 w ostatniej). RDL hantle 22 kg 3×8 (RIR ~5). Biceps hantle 12 kg ×10 (RIR 2). Triceps wyciąg 15 kg ×15 (RIR 3–4). Pallof 2×10/str. Zmęczenie po: 6, bez bólu.
 - 10.10 A (rotacja 2, przesunięta z 7.10; 7.10 i 9.10 bez treningu): energia 8, bez bólu. Plyo pompki na ławce 4×5, bez bólu. Wyciskanie hantli na skosie (zamiast sztangi, prośba Kuby) 20 kg/rękę 3×6, bez bólu; RIR brak danych. Podciąganie neutralne masa ciała 4, 4, 3 (RIR 1–2), bez bólu. Dipy masa ciała 3×6 (pierwszy raz), RIR brak danych; lekki ból lewego barku, góra barku, 2/10. Wiosło hantlami z podparciem 18 kg 3×8 (RIR 3), bez bólu. Unoszenie bokiem 6 kg 3×10 (do wysokości barków, ostrożnie przez bark), bez bólu.
 - 15.10 B (rotacja 2; 12.10 i 14.10 bez treningu): energia 7, bez bólu. Skok na skrzynię 4×3: 1. seria 60 cm, 3 kolejne 90 cm (potwierdzone przez Kubę), technicznie, bez bólu. Trap-bar 27,5 kg/str 3×5 (RIR 5), ból brak danych. Bułgarski 12 kg 3×8/str (RIR ~2), ból brak danych. Hip thrust (stanowisko zajęte, zrobione później; zakładam Glute Drive 25 kg/str 3×8, do potwierdzenia) RIR 5. Łydki skoczne (pogo) 2×15, bardzo lekko (RIR ~10 wg Kuby). Nordic curl zrobiony, „dobrze” wg Kuby (liczby brak danych). Zmęczenie po: brak danych.
-- 20.10 C (rotacja 2; 19.10 bez treningu): energia 8, ból brak danych.
+- 20.10 C (rotacja 2; 19.10 bez treningu): energia 8, ból brak danych. Rozgrzewka + izometria szyi. Skok w dal 4×3: wynik „podobny”, pomiar telefonem ~230 cm (niepewny); po 3. serii odczucie w górnej części prawego uda (stopień brak danych).
 
 **Następna sesja:** A (czw 22.10), potem B (sob 24.10).
 
@@ -81,7 +81,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 
 | Ćwiczenie | Ostatnio | Następnym razem |
 |---|---|---|
-| Skok w dal | ~220 cm (5.10) | pobić |
+| Skok w dal | ~220 cm (5.10); ~230 cm wg telefonu, niepewne (20.10) | pobić, zmierzyć taśmą |
 | Skok na skrzynię | 60 cm ×3, potem 90 cm 3×3, technicznie (15.10) | 90 cm 4×3 |
 | Plyo pompki / pompki na ławce | 4×5 (10.10) | 4×5, niższa ławka lub podłoga |
 | Pompki | 12+10, RIR 3–4 | |
