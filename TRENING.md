@@ -76,7 +76,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 10.10 A (rotacja 2, przesunięta z 7.10; 7.10 i 9.10 bez treningu): energia 8, bez bólu. Plyo pompki na ławce 4×5, bez bólu. Wyciskanie hantli na skosie (zamiast sztangi, prośba Kuby) 20 kg/rękę 3×6, bez bólu; RIR brak danych. Podciąganie neutralne masa ciała 4, 4, 3 (RIR 1–2), bez bólu. Dipy masa ciała 3×6 (pierwszy raz), RIR brak danych; lekki ból lewego barku, góra barku, 2/10. Wiosło hantlami z podparciem 18 kg 3×8 (RIR 3), bez bólu. Unoszenie bokiem 6 kg 3×10 (do wysokości barków, ostrożnie przez bark), bez bólu.
 - 15.10 B (rotacja 2; 12.10 i 14.10 bez treningu): energia 7, bez bólu. Skok na skrzynię 4×3: 1. seria 60 cm, 3 kolejne 90 cm (potwierdzone przez Kubę), technicznie, bez bólu. Trap-bar 27,5 kg/str 3×5 (RIR 5), ból brak danych. Bułgarski 12 kg 3×8/str (RIR ~2), ból brak danych. Hip thrust (stanowisko zajęte, zrobione później; zakładam Glute Drive 25 kg/str 3×8, do potwierdzenia) RIR 5. Łydki skoczne (pogo) 2×15, bardzo lekko (RIR ~10 wg Kuby). Nordic curl zrobiony, „dobrze” wg Kuby (liczby brak danych). Zmęczenie po: brak danych.
 - 20.10 C (rotacja 2; 19.10 bez treningu): energia 8, ból brak danych. Rozgrzewka + izometria szyi. Skok w dal 4×3: wynik „podobny”, pomiar telefonem ~230 cm (niepewny); po 3. serii odczucie w górnej części prawego uda, ~2/10 tylko w spoczynku (Kuba napisał „2/8”, czytam jako 2/10). Goblet 24 kg 3×8 (RIR 5); w 3. serii ból prawego uda 6/10 → RDL dziś pominięty (decyzja trenera), dalej tylko góra i core. Hantle płasko 20 kg 3×8 (RIR 3 w ostatniej), ból udo w spoczynku brak danych. Biceps hantle 12 kg + triceps wyciąg 17,5 kg 2×8 (RIR 3; podane łącznie). Pallof stojąc 2×10/str (półklęk pominięty przez udo). Udo po sesji „ok”. Zmęczenie po: 7.
-- 22.10 A (rotacja 2): energia 8 (mało snu, zmęczenie odczuwalne), prawe udo bolało 21.10 na schodach, dziś ok. Rozgrzewka + rotacja zewnętrzna z gumą. Plyo pompki na ławce 45 cm (niżej niż 10.10) 3×4, bez bólu. Hantle skos 20 kg/rękę 8, 8, 6 (RIR 2 w ostatniej), ból brak danych.
+- 22.10 A (rotacja 2): energia 8 (mało snu, zmęczenie odczuwalne), prawe udo bolało 21.10 na schodach, dziś ok. Rozgrzewka + rotacja zewnętrzna z gumą. Plyo pompki na ławce 45 cm (niżej niż 10.10) 3×4, bez bólu. Hantle skos 20 kg/rękę 8, 8, 6 (RIR 2 w ostatniej), ból brak danych. Podciąganie neutralne masa ciała 3×4 wg polecenia (RIR 2 w ostatniej), ból brak danych.
 
 **Następna sesja:** A (czw 22.10), potem B (sob 24.10, tylko jeśli prawe udo bez bólu; inaczej bez skrzyni i z lżejszym hip thrustem), C pon 26.10.
 
@@ -91,7 +91,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Skos sztanga | 40 kg, 8+7, RIR ~3 | 40 kg |
 | Hantle skos | 20 kg 8, 8, 6, RIR 2 (22.10) | 20 kg, cel 3×8 |
 | Hantle płasko | 20 kg 3×8, RIR 3 (20.10) | 20 kg, cel 3×10 |
-| Podciąganie | 4, 4, 3, RIR 1–2 (10.10) | 3×4, bez podbijania |
+| Podciąganie | 3×4, RIR 2 w ostatniej (22.10) | 3×5 albo 4×4 |
 | Dipy | masa ciała 3×6, lekki ból lewego barku (10.10) | płytko (do 90° w łokciu) tylko bez bólu; jeśli boli, pompki 3×10–12 |
 | Wiosło z podparciem | 18 kg 3×8, RIR 3 (10.10) | 18 kg, cel 3×10 |
 | Unoszenie bokiem | 6 kg 3×10, bez bólu (10.10) | 6–7,5 kg wg barku, do wysokości barków |
