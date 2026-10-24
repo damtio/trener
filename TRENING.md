@@ -77,7 +77,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 15.10 B (rotacja 2; 12.10 i 14.10 bez treningu): energia 7, bez bólu. Skok na skrzynię 4×3: 1. seria 60 cm, 3 kolejne 90 cm (potwierdzone przez Kubę), technicznie, bez bólu. Trap-bar 27,5 kg/str 3×5 (RIR 5), ból brak danych. Bułgarski 12 kg 3×8/str (RIR ~2), ból brak danych. Hip thrust (stanowisko zajęte, zrobione później; zakładam Glute Drive 25 kg/str 3×8, do potwierdzenia) RIR 5. Łydki skoczne (pogo) 2×15, bardzo lekko (RIR ~10 wg Kuby). Nordic curl zrobiony, „dobrze” wg Kuby (liczby brak danych). Zmęczenie po: brak danych.
 - 20.10 C (rotacja 2; 19.10 bez treningu): energia 8, ból brak danych. Rozgrzewka + izometria szyi. Skok w dal 4×3: wynik „podobny”, pomiar telefonem ~230 cm (niepewny); po 3. serii odczucie w górnej części prawego uda, ~2/10 tylko w spoczynku (Kuba napisał „2/8”, czytam jako 2/10). Goblet 24 kg 3×8 (RIR 5); w 3. serii ból prawego uda 6/10 → RDL dziś pominięty (decyzja trenera), dalej tylko góra i core. Hantle płasko 20 kg 3×8 (RIR 3 w ostatniej), ból udo w spoczynku brak danych. Biceps hantle 12 kg + triceps wyciąg 17,5 kg 2×8 (RIR 3; podane łącznie). Pallof stojąc 2×10/str (półklęk pominięty przez udo). Udo po sesji „ok”. Zmęczenie po: 7.
 - 22.10 A (rotacja 2): energia 8 (mało snu, zmęczenie odczuwalne), prawe udo bolało 21.10 na schodach, dziś ok. Rozgrzewka + rotacja zewnętrzna z gumą. Plyo pompki na ławce 45 cm (niżej niż 10.10) 3×4, bez bólu. Hantle skos 20 kg/rękę 8, 8, 6 (RIR 2 w ostatniej), ból brak danych. Podciąganie neutralne masa ciała 3×4 wg polecenia (RIR 2 w ostatniej), ból brak danych. Dipy płytkie (do 90°) masa ciała 3×6 wg polecenia (zakładam dipy, nie pompki; do potwierdzenia), RIR 5, lewy bark 1/10 („jest super”, lepiej niż 2/10 z 10.10). Wiosło hantlą z podparciem 18 kg 3×10/str wg polecenia (RIR 2–3 w ostatniej), ból brak danych. Unoszenie bokiem 6 kg 2×12, RIR i ból brak danych. Zmęczenie po: brak danych.
-- 24.10 B (rotacja 3): energia 8 (Kuba podał też 7, może w trakcie); prawe udo „ok, czuję bardzo lekko”. Rozgrzewka + izometria szyi. Skok na skrzynię 60 cm (obniżona przez udo) 4×4 (Kuba sam dał 4 zamiast 3, bardzo lekko), udo po skokach brak danych. Trap-bar 30 kg/str 3×5 wg polecenia (RIR 3), udo 0/10.
+- 24.10 B (rotacja 3): energia 8 (Kuba podał też 7, może w trakcie); prawe udo „ok, czuję bardzo lekko”. Rozgrzewka + izometria szyi. Skok na skrzynię 60 cm (obniżona przez udo) 4×4 (Kuba sam dał 4 zamiast 3, bardzo lekko), udo po skokach brak danych. Trap-bar 30 kg/str 3×5 wg polecenia (RIR 3), udo 0/10. Bułgarski 12 kg 2×8/str, RIR 0 już w 2. serii, więc 3. seria odpuszczona (decyzja Kuby, słuszna); udo brak danych.
 
 **Następna sesja:** B (sob 24.10, rotacja 3, tylko jeśli prawe udo bez bólu; inaczej bez skrzyni i pogo, z lżejszym hip thrustem), potem C pon 26.10.
 
@@ -98,7 +98,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Unoszenie bokiem | 6 kg 2×12 (22.10) | 6 kg, cel 2×15, potem 7,5 kg |
 | Trap-bar | 30 kg/str 3×5, RIR 3 (24.10) | 30 kg/str, cel RIR 3+ potem 32,5 |
 | Martwy klasyczny | 70 kg ×5 RIR 5–6, 90 kg ×3 (2.10) | 80 kg 3×5 |
-| Bułgarski | 12 kg 3×8/str, RIR ~2 (15.10) | 12 kg, zostaje |
+| Bułgarski | 12 kg 2×8/str, RIR 0 (24.10, po trap-barze) | 12 kg 3×6 albo 10 kg 3×8, RIR 2 |
 | Hip thrust Glute Drive | 25 kg/str 3×8, RIR 5 (15.10) | 30 kg/str |
 | Wznosy łydek | 12 kg 2×12 (2.10) | |
 | Łydki skoczne (pogo) | 2×15, bardzo lekko (15.10) | 2×20 albo jednonóż 2×10/str |
