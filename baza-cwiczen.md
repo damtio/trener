@@ -45,3 +45,13 @@ Szablon wpisu: **nazwa**, cel, dowody (źródła), przeciwwskazania, dawkowanie,
 - **Gdzie w planie:** koniec rozgrzewki w sesjach C i B (A ma już rotację zewnętrzną).
 - **Filmik:** [How To Do Isometric Neck Exercises](https://www.youtube.com/watch?v=ZqWEXUULB7M)
 - **Dodano:** 18.10.2026
+
+## Reverse Nordic (odwrotny Nordic, klęk z odchyleniem tułowia w tył)
+
+- **Cel:** ekscentryczna siła czworogłowego, zwłaszcza mięśnia prostego uda, który pracuje przy skokach, sprintach i w BJJ przy klęku, wstawaniu technicznym i pracy nogami w gardzie. Uzupełnia Nordic curl (tył uda) o przód uda. Bezpośredni powód: 20.10 ból górnej części prawego uda przy skokach i gobletach.
+- **Dowody:** Alonso-Fernandez i in. (J Sports Med Phys Fitness 2019) badali zmiany architektury mięśnia prostego uda po treningu reverse Nordic ([UVigo](https://portalcientifico.uvigo.gal/documentos/5fa622882999524ed108606d?lang=en)). Mechanizm jest ten sam co w Nordic curl: ekscentryczny trening wydłuża pęczki mięśniowe, co w tyle uda wiąże się z mniejszą liczbą naderwań. Uczciwie: dla przodu uda nie ma jeszcze badań pokazujących mniej kontuzji, a dowody dotyczą zmian architektury mięśnia, nie kontuzji. Ćwiczenie jest powszechnie stosowane w rehabilitacji prostego uda, bez sprzętu.
+- **Uważać:** **nie robić, dopóki prawe udo nie jest 0/10 przez tydzień**. Przy ostrym bólu kolana (rzepka) lub przodu uda stop. Biodra cały czas wyprostowane, nie wyginać lędźwi.
+- **Dawkowanie:** start w małym zakresie (odchylenie 20–30°, np. do gumy lub kanapy za plecami), 2×5, zejście 3 s. Co tydzień zakres o kilka stopni dalej, dopiero potem 3×6.
+- **Gdzie w planie:** koniec sesji C, najwcześniej od rotacji 5 (po tygodniu lżejszym), tylko przy udzie 0/10.
+- **Filmik:** [Reverse Nordic Curl Tutorial](https://www.youtube.com/watch?v=XHCz7nkfap4)
+- **Dodano:** 25.10.2026

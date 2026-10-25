@@ -45,6 +45,12 @@ Przegląd systematyczny o wegetarianach w sporcie (Hernández-Lougedo i in., Nut
 3. **Badanie krwi raz w roku:** morfologia, ferrytyna, B12 (lub holoTC), witamina D. Wynik pokaże, czy coś zmieniać, zamiast zgadywać.
 4. **Omega-3:** siemię lniane lub orzechy włoskie codziennie; jeśli nie jesz ryb, rozważ olej z alg.
 
+## Aktualizacja 25.10.2026: kofeina przed treningiem
+
+Stanowisko ISSN (Guest i in., Journal of the International Society of Sports Nutrition 2021) mówi, że kofeina w dawce **3–6 mg/kg** niezawodnie poprawia wydolność, a w treningu oporowym daje umiarkowany lub duży wzrost prędkości i mocy ruchu. Efekt w sportach technicznych jest mieszany, a ważną ceną bywa sen ([JISSN, PDF](https://jissn.biomedcentral.com/track/pdf/10.1186/s12970-020-00383-4)).
+
+**Wniosek dla Kuby:** przy 81,5 kg najniższa skuteczna dawka (3 mg/kg) to ~245 mg, ale zacznij od ~150–200 mg (mocna kawa lub podwójne espresso) 45–60 min przed sesją. Na moc (skoki, plyo) to realny plus. Granica: nic z kofeiną po 15:00, bo słabszy sen zje zysk. Na dni bez treningu nie potrzebujesz jej „na zapas”.
+
 ## Przepisy
 
 ### Tofu scramble z ciecierzycą (śniadanie, ~40 g białka, wegańskie)
@@ -82,4 +88,13 @@ Cebula, czosnek, papryka na oleju. Dodać 100 g granulatu sojowego (namoczony w 
 
 ### Pasta twarogowa z ciecierzycą na kanapki (wegetariańska, ~35 g białka, 5 min)
 250 g twarogu półtłustego rozgnieść z 100 g ciecierzycy z puszki, rzodkiewką, szczypiorem, solą i pieprzem. Na 2 kromki pełnoziarnistego chleba żytniego. Wegańsko: twaróg zamień na 200 g tofu naturalnego zblendowanego z łyżką soku z cytryny.
+
+### Szakszuka z tofu i ciecierzycą (wegetariańska, ~35 g białka, 20 min)
+Cebula, czosnek i papryka na oleju, kumin, papryka wędzona. Puszka pomidorów i 120 g ciecierzycy, dusić 8 min. Wkruszyć 150 g tofu naturalnego, zrobić 2 dołki, wbić 2 jajka, przykryć na 5 min. Posypać kolendrą, jeść z pieczywem żytnim. Wegańsko: bez jajek, 250 g tofu (~33 g białka).
+
+### Tacos z soczewicą i orzechami włoskimi (wegańskie, ~35 g białka/porcja, 2 porcje)
+200 g ugotowanej brązowej soczewicy (ok. 90 g suchej), 40 g posiekanych orzechów włoskich i 60 g granulatu sojowego (namoczonego) podsmażyć z kuminem, chili, czosnkiem i sosem sojowym. Do 6 małych tortilli z kukurydzą, sałatą, salsą pomidorową i sosem z jogurtu sojowego z limonką. Orzechy dają też omega-3 (ALA).
+
+### Pudding chia na mleku sojowym ze skyrem (wegetariański, ~35 g białka, wieczór przed)
+250 ml mleka sojowego, 3 łyżki chia, łyżeczka kakao, odrobina miodu. Na noc do lodówki. Rano wymieszać ze 150 g skyru, dodać maliny i łyżkę orzechów. Wegańsko: skyr zamień na 150 g wysokobiałkowego jogurtu sojowego lub dodaj 20 g odżywki.
 
