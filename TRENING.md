@@ -78,7 +78,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 22.10 A (rotacja 2): energia 8 (mało snu, zmęczenie odczuwalne), prawe udo bolało 21.10 na schodach, dziś ok. Rozgrzewka + rotacja zewnętrzna z gumą. Plyo pompki na ławce 45 cm (niżej niż 10.10) 3×4, bez bólu. Hantle skos 20 kg/rękę 8, 8, 6 (RIR 2 w ostatniej), ból brak danych. Podciąganie neutralne masa ciała 3×4 wg polecenia (RIR 2 w ostatniej), ból brak danych. Dipy płytkie (do 90°) masa ciała 3×6 wg polecenia (zakładam dipy, nie pompki; do potwierdzenia), RIR 5, lewy bark 1/10 („jest super”, lepiej niż 2/10 z 10.10). Wiosło hantlą z podparciem 18 kg 3×10/str wg polecenia (RIR 2–3 w ostatniej), ból brak danych. Unoszenie bokiem 6 kg 2×12, RIR i ból brak danych. Zmęczenie po: brak danych.
 - 24.10 B (rotacja 3): energia 8 (Kuba podał też 7, może w trakcie); prawe udo „ok, czuję bardzo lekko”. Rozgrzewka + izometria szyi. Skok na skrzynię 60 cm (obniżona przez udo) 4×4 (Kuba sam dał 4 zamiast 3, bardzo lekko), udo po skokach brak danych. Trap-bar 30 kg/str 3×5 wg polecenia (RIR 3), udo 0/10. Bułgarski 12 kg 2×8/str, RIR 0 już w 2. serii, więc 3. seria odpuszczona (decyzja Kuby, słuszna); udo brak danych. Hip thrust ze sztangą (gryf olimpijski 20 kg + 25 kg/str = 70 kg) 3×6 (RIR 2), udo ok. Pogo jednonóż 2×10/str wg polecenia (bez obciążenia; pytanie Kuby o ciężar → nie, progresja przez jedną nogę), wynik brak danych. Nordic 2×3 (Kuba wybrał zwykłe zamiast zamiennika), wynik brak danych. Zmęczenie po: brak danych.
 - 26.10 C (rotacja 3): zrobione wg Kuby (potwierdzone 28.10); ciężary, RIR, udo i zmęczenie po: brak danych.
-- 28.10 A (rotacja 3): energia 7, ból 0 (udo, bark, ręka). Rozgrzewka + rotacja zewnętrzna z gumą. Plyo pompki na ławce ~45 cm 4×4 wg polecenia (wysokość ławki i bark brak danych). Hantle skos 20 kg/rękę 3×8 (Kuba napisał „8x8”, czytam jako 8 w każdej serii; RIR 2–3), ból brak danych. Podciąganie neutralne masa ciała 5, 4, 4 (RIR brak danych). Dipy masa ciała 3×8 wg polecenia (RIR 4), głębiej niż zalecane 90° (Kuba: „poniżej 45 stopni”, czytam jako głębokie zejście), lewy bark 0/10.
+- 28.10 A (rotacja 3): energia 7, ból 0 (udo, bark, ręka). Rozgrzewka + rotacja zewnętrzna z gumą. Plyo pompki na ławce ~45 cm 4×4 wg polecenia (wysokość ławki i bark brak danych). Hantle skos 20 kg/rękę 3×8 (Kuba napisał „8x8”, czytam jako 8 w każdej serii; RIR 2–3), ból brak danych. Podciąganie neutralne masa ciała 5, 4, 4 (RIR brak danych). Dipy masa ciała 3×8 wg polecenia (RIR 4), głębiej niż zalecane 90° (Kuba: „poniżej 45 stopni”, czytam jako głębokie zejście), lewy bark 0/10. Wiosło hantlą z podparciem 18 kg 3×10/str (RIR 3–4).
 
 **Następna sesja:** B (pt 30.10, rotacja 4, lżej: 2 serie RIR 4).
 
@@ -95,7 +95,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Hantle płasko | 20 kg 3×8, RIR 3 (20.10) | 20 kg, cel 3×10 |
 | Podciąganie | 5, 4, 4 (28.10) | 3×5 |
 | Dipy | masa ciała 3×8, głęboko, RIR 4, bark 0/10 (28.10) | 3×10 albo +2,5–5 kg, jeśli bark dalej 0/10 |
-| Wiosło z podparciem | 18 kg 3×10, RIR 2–3 (22.10) | 18 kg 3×10; 20 kg gdy RIR ≥3 |
+| Wiosło z podparciem | 18 kg 3×10, RIR 3–4 (28.10) | 20 kg 3×10 |
 | Unoszenie bokiem | 6 kg 2×12 (22.10) | 6 kg, cel 2×15, potem 7,5 kg |
 | Trap-bar | 30 kg/str 3×5, RIR 3 (24.10) | 30 kg/str, cel RIR 3+ potem 32,5 |
 | Martwy klasyczny | 70 kg ×5 RIR 5–6, 90 kg ×3 (2.10) | 80 kg 3×5 |
