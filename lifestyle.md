@@ -51,6 +51,12 @@ Stanowisko ISSN (Guest i in., Journal of the International Society of Sports Nut
 
 **Wniosek dla Kuby:** przy 81,5 kg najniższa skuteczna dawka (3 mg/kg) to ~245 mg, ale zacznij od ~150–200 mg (mocna kawa lub podwójne espresso) 45–60 min przed sesją. Na moc (skoki, plyo) to realny plus. Granica: nic z kofeiną po 15:00, bo słabszy sen zje zysk. Na dni bez treningu nie potrzebujesz jej „na zapas”.
 
+## Aktualizacja 1.11.2026: witamina D od listopada
+
+Polskie wytyczne z 2023 r. (Płudowski i in., Nutrients 2023) dla zdrowych dorosłych: jeśli od maja do września nie ma 30–45 min słońca dziennie na odkryte ręce i nogi, **1 000–2 000 IU (25–50 µg) witaminy D3 dziennie przez cały rok**; górna bezpieczna granica to 4 000 IU dziennie. Optymalny poziom we krwi to 30–50 ng/ml 25(OH)D ([MDPI](https://www.mdpi.com/2072-6643/15/3/695)). Przy diecie roślinnej żywność daje niewiele (głównie grzyby naświetlane UV i napoje roślinne wzbogacane), więc tu suplement to najprostsza droga.
+
+**Wniosek dla Kuby:** od teraz do kwietnia 2 000 IU D3 dziennie, do posiłku z tłuszczem. Wytyczne nie zalecają rutynowego badania, ale jeśli robisz badania krwi (patrz 18.10: ferrytyna, B12), dorzuć 25(OH)D, to będzie punkt odniesienia. Wegańska D3 jest z porostów, standardowa z lanoliny (wełna owcza).
+
 ## Przepisy
 
 ### Tofu scramble z ciecierzycą (śniadanie, ~40 g białka, wegańskie)
@@ -97,4 +103,13 @@ Cebula, czosnek i papryka na oleju, kumin, papryka wędzona. Puszka pomidorów i
 
 ### Pudding chia na mleku sojowym ze skyrem (wegetariański, ~35 g białka, wieczór przed)
 250 ml mleka sojowego, 3 łyżki chia, łyżeczka kakao, odrobina miodu. Na noc do lodówki. Rano wymieszać ze 150 g skyru, dodać maliny i łyżkę orzechów. Wegańsko: skyr zamień na 150 g wysokobiałkowego jogurtu sojowego lub dodaj 20 g odżywki.
+
+### Gulasz z tempehu i białej fasoli z kaszą gryczaną (na 3 porcje, ~40 g białka/porcja, wegańskie)
+2 cebule, czosnek, marchew i papryka na oleju, łyżka papryki słodkiej i wędzonej, majeranek. 300 g tempehu w kostce podsmażyć na rumiano, dodać 2 puszki białej fasoli, puszkę pomidorów, 300 ml bulionu, dusić 20 min. Podawać z 60 g (sucha waga) kaszy gryczanej na porcję i ogórkiem kiszonym (witamina C pomaga wchłonąć żelazo).
+
+### Omlet z mąki z ciecierzycy z tofu i szpinakiem (wegański, ~35 g białka, 15 min)
+80 g mąki z ciecierzycy, 150 ml mleka sojowego, szczypta kurkumy, czarnej soli kala namak (smak jajka) i proszku do pieczenia wymieszać na gładkie ciasto. Wylać na patelnię, na wierzch 120 g pokruszonego tofu wędzonego i garść szpinaku, smażyć pod przykryciem 4 min, przełożyć na pół. Wegetariańsko: podawać z łyżką skyru z czosnkiem (+5 g).
+
+### Twarożek z edamame i rzodkiewką na grzance (wegetariański, ~35 g białka, 5 min)
+200 g serka wiejskiego lub twarogu wymieszać ze 100 g ugotowanego edamame (rozgniecionego widelcem), rzodkiewką, szczypiorem, solą i pieprzem. Na 2 kromki chleba żytniego na zakwasie. Szybkie śniadanie albo kolacja po treningu.
 

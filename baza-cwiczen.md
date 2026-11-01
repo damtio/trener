@@ -55,3 +55,13 @@ Szablon wpisu: **nazwa**, cel, dowody (źródła), przeciwwskazania, dawkowanie,
 - **Gdzie w planie:** koniec sesji C, najwcześniej od rotacji 5 (po tygodniu lżejszym), tylko przy udzie 0/10.
 - **Filmik:** [Reverse Nordic Curl Tutorial](https://www.youtube.com/watch?v=XHCz7nkfap4)
 - **Dodano:** 25.10.2026
+
+## Rzut piłką lekarską ze skrętem o ścianę (rotational scoop toss)
+
+- **Cel:** moc rotacyjna bioder i tułowia: przekazanie siły z nóg przez biodra do rąk, jak przy przetaczaniu z mostka, sweepach, frame'ach i rzutach. W aktualnym planie moc jest tylko w linii prostej (skoki, rzut z klatki, plyo pompki), a w dawnych planach Kuby (Plan 1, 2, 4) rzut ze skrętem był stałym elementem.
+- **Dowody:** RCT na 49 zawodnikach baseballu (Szymanski i in., J Strength Cond Res 2007): 12 tygodni, 3×/tydz. Grupa, która do tego samego treningu siłowego dodała ćwiczenia rotacyjne i całego ciała z piłką lekarską, poprawiła siłę rotacji tułowia i rzut piłką ze skrętem istotnie bardziej niż grupa bez piłki ([streszczenie SDSU](https://coachsci.sdsu.edu/csa/vol171/szymans4.htm)). 12-tygodniowe badanie na piłkarkach ręcznych też pokazało wzrost siły i mocy po treningu z piłką lekarską ([PubMed](https://pubmed.ncbi.nlm.nih.gov/22027860/)). Uczciwie: nikt nie mierzył przeniesienia na wynik w sporcie, a badania nie dotyczą grapplingu. Mocne strony: bezpieczne, tanie i łatwe do dawkowania.
+- **Uważać:** łapanie piłki obciąża dłonie i nadgarstki; jeśli łapanie boli, rzut i podniesienie piłki z podłogi zamiast łapania z odbicia. Ból lędźwi = ruch idzie z kręgosłupa zamiast z bioder, lżejsza piłka. Nie po skokach w dal przy zmęczonym udzie.
+- **Dawkowanie:** piłka 4–6 kg, bokiem do ściany w odległości ~1–2 m, 3×5 na stronę, każde powtórzenie maksymalnie szybko, przerwa 60 s. To ćwiczenie mocy: zero zmęczenia, jakość ponad liczbę.
+- **Gdzie w planie:** początek sesji A zamiast jednej serii plyo pompek albo jako drugie ćwiczenie mocy w C, od rotacji 5.
+- **Filmik:** [Medicine Ball Rotational Scoop Toss](https://www.youtube.com/watch?v=Qq83wji4t2I)
+- **Dodano:** 1.11.2026

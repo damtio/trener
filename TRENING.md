@@ -54,12 +54,13 @@ Moc na początku sesji. Wejście stopniowe:
 
 Pełny raport: najnowszy plik w [raporty/](raporty/). Niedzielny routine nadpisuje tę sekcję.
 
-**26.10–1.11.2026:** pon 26.10 C (rotacja 3, 3 serie, RIR 2–3) · wt mobility D1 · śr 28.10 A (rotacja 3) · czw mobility D2 · pt 30.10 B (rotacja 4 = **tydzień lżejszy**: 2 serie, RIR 4) · sob mobility D3 lub wolne · ndz 1.11 C (rotacja 4, lżejsza) albo pon 2.11.
+**2–8.11.2026:** pon 2.11 mobility D1 · wt 3.11 C (rotacja 4, lżej: 2 serie RIR 4) · śr mobility D2 · czw 5.11 A (rotacja 4, lżej) · pt mobility D3 lub wolne · sob 7.11 B (rotacja 5: 3 serie, RIR 2–3) · ndz 8.11 wolne · pon 9.11 C (rotacja 5).
 
-Warunek dla nóg: prawe udo przed sesją 0–1/10. Ból w trakcie powyżej 2/10 = stop ćwiczenia, zamiennik bez skoków.
-Ciężary na C 26.10: izometria szyi · skok w dal 3×3 submaksymalnie (bez testu, tylko przy udzie 0/10; inaczej pominąć) · goblet 22 kg 3×8 (zachowawczo po bólu uda; bez bólu 24 kg w kolejnej C) · hantle płasko 20 kg 3×10 · RDL hantle 24 kg 3×8 · biceps 12 kg + triceps wyciąg 17,5 kg 2×10 · Pallof 2×10/str.
-Ciężary na A 28.10: rotacja zewnętrzna z gumą · plyo pompki 4×4 · hantle skos 20 kg 3×8 · podciąganie neutralne 3×5 · dipy płytkie 3×8 (bark 0–1/10) · wiosło 18 kg 3×10 (RIR ≥3 → 20 kg) · bokiem 6 kg 2×15.
-Ciężary na B 30.10 (lżej, 2 serie RIR 4): izometria szyi · skrzynia 61 cm 2×3 · trap-bar 30 kg/str 2×5 · bułgarski 10 kg 2×8 · hip thrust sztanga 60 kg 2×8 · pogo jednonóż 2×8/str · Nordic 2×3.
+Warunek dla nóg bez zmian: prawe udo przed sesją 0–1/10, ból w trakcie powyżej 2/10 = stop ćwiczenia.
+Ciężary na C 3.11 (lżej): izometria szyi · skok w dal 3×3 submaksymalnie · goblet 22 kg 2×8 · hantle płasko 20 kg 2×10 · RDL hantle 24 kg 2×8 · biceps 12 kg + triceps wyciąg 17,5 kg 2×10 · Pallof 2×10/str.
+Ciężary na A 5.11 (lżej): rotacja zewnętrzna z gumą · plyo pompki 3×4 · hantle skos 20 kg 2×10 · podciąganie neutralne 2×5 · dipy masa ciała 2×8 · wiosło **20 kg** 2×10 · bokiem 6 kg 2×15.
+Ciężary na B 7.11 (rotacja 5): izometria szyi · skrzynia 76 cm 4×3 · trap-bar **32,5 kg/str** 3×5 (zajęty: martwy 80 kg 3×5) · bułgarski 12 kg 3×6–8 (RIR 2) · hip thrust sztanga 70 kg 3×8 · pogo jednonóż 2×10/str · Nordic 2×3.
+Od rotacji 5 (C 9.11, A ~11.11): reverse Nordic 2×5 w małym zakresie na końcu C (jeśli udo 0/10 cały tydzień) i rzut piłką ze skrętem 3×5/str na początku A.
 
 ## 5. Historia sesji
 
@@ -81,14 +82,16 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 28.10 A (rotacja 3): energia 7, ból 0 (udo, bark, ręka). Rozgrzewka + rotacja zewnętrzna z gumą. Plyo pompki na ławce ~45 cm 4×4 wg polecenia (wysokość ławki i bark brak danych). Hantle skos 20 kg/rękę 3×8 (Kuba napisał „8x8”, czytam jako 8 w każdej serii; RIR 2–3), ból brak danych. Podciąganie neutralne masa ciała 5, 4, 4 (RIR brak danych). Dipy masa ciała 3×8 wg polecenia (RIR 4), głębiej niż zalecane 90° (Kuba: „poniżej 45 stopni”, czytam jako głębokie zejście), lewy bark 0/10. Wiosło hantlą z podparciem 18 kg 3×10/str (RIR 3–4).
 
 - 30.10 B: nieodbyte (potwierdzone przez Kubę 1.11).
-- 1.11 B (rotacja 4, lżej: 2 serie RIR 4; 30.10 nieodbyte): energia 7, prawe udo 0/10. Rozgrzewka + izometria szyi. Skok na skrzynię 3×4 wg Kuby (zalecane 61 cm 3×3, wysokość zakładam 61 cm), RIR 5–6, udo ok. Trap-bar zajęty → martwy klasyczny 75 kg 2×5 (zalecane 70 kg; serie×powt zakładam wg polecenia), RIR 5. Bułgarski 10 kg 2×8/str wg polecenia, RIR ~5, udo 0/10. Hip thrust sztanga 60 kg 2×8 wg polecenia (zakładam sztangę, nie Glute Drive), RIR 4–5. Pogo jednonóż 2×8/str wg polecenia. (w trakcie)
+- 1.11 B (rotacja 4, lżej: 2 serie RIR 4; 30.10 nieodbyte): energia 7, prawe udo 0/10. Rozgrzewka + izometria szyi. Skok na skrzynię 3×4 wg Kuby (zalecane 61 cm 3×3, wysokość zakładam 61 cm), RIR 5–6, udo ok. Trap-bar zajęty → martwy klasyczny 75 kg 2×5 (zalecane 70 kg; serie×powt zakładam wg polecenia), RIR 5. Bułgarski 10 kg 2×8/str wg polecenia, RIR ~5, udo 0/10. Hip thrust sztanga 60 kg 2×8 wg polecenia (zakładam sztangę, nie Glute Drive), RIR 4–5. Pogo jednonóż 2×8/str wg polecenia. Nordic i zmęczenie po: brak danych.
+
+**Następna sesja:** C (wt 3.11, rotacja 4, lżej: 2 serie RIR 4).
 
 ## 6. Punkty odniesienia (ostatni ciężar i cel na następny raz)
 
 | Ćwiczenie | Ostatnio | Następnym razem |
 |---|---|---|
 | Skok w dal | ~220 cm (5.10); ~230 cm wg telefonu, niepewne (20.10) | pobić, zmierzyć taśmą |
-| Skok na skrzynię | 60 cm 4×4, bardzo lekko (24.10, obniżona przez udo) | 90 cm 4×3, gdy udo 0/10 |
+| Skok na skrzynię | 3×4 (61 cm zakładane), RIR 5–6, udo ok (1.11) | 76 cm 4×3 (7.11), potem 90 cm |
 | Plyo pompki / pompki na ławce | 4×5 (10.10) | 4×5, niższa ławka lub podłoga |
 | Pompki | 12+10, RIR 3–4 | |
 | Skos sztanga | 40 kg, 8+7, RIR ~3 | 40 kg |
@@ -96,15 +99,15 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Hantle płasko | 20 kg 3×8, RIR 3 (20.10) | 20 kg, cel 3×10 |
 | Podciąganie | 5, 4, 4 (28.10) | 3×5 |
 | Dipy | masa ciała 3×8, głęboko, RIR 4, bark 0/10 (28.10) | 3×10 albo +2,5–5 kg, jeśli bark dalej 0/10 |
-| Wiosło z podparciem | 18 kg 3×10, RIR 3–4 (28.10) | 20 kg 3×10 |
+| Wiosło z podparciem | 18 kg 3×10, RIR 3–4 (28.10) | 20 kg (2×10 w lżejszym tygodniu, potem 3×10) |
 | Unoszenie bokiem | 6 kg 2×12 (22.10) | 6 kg, cel 2×15, potem 7,5 kg |
-| Trap-bar | 30 kg/str 3×5, RIR 3 (24.10) | 30 kg/str, cel RIR 3+ potem 32,5 |
-| Martwy klasyczny | 70 kg ×5 RIR 5–6, 90 kg ×3 (2.10) | 80 kg 3×5 |
-| Bułgarski | 12 kg 2×8/str, RIR 0 (24.10, po trap-barze) | 12 kg 3×6 albo 10 kg 3×8, RIR 2 |
+| Trap-bar | 30 kg/str 3×5, RIR 3 (24.10) | 32,5 kg/str 3×5 (7.11) |
+| Martwy klasyczny | 75 kg 2×5, RIR 5 (1.11) | 80 kg 3×5 |
+| Bułgarski | 10 kg 2×8/str, RIR ~5, udo 0/10 (1.11); 12 kg 2×8 RIR 0 (24.10) | 12 kg 3×6–8, RIR 2 |
 | Hip thrust Glute Drive | 25 kg/str 3×8, RIR 5 (15.10) | 30 kg/str |
-| Hip thrust sztanga | 70 kg (gryf + 25/str) 3×6, RIR 2 (24.10) | 70 kg 3×8 |
+| Hip thrust sztanga | 60 kg 2×8, RIR 4–5 (1.11); 70 kg 3×6, RIR 2 (24.10) | 70 kg 3×8 |
 | Wznosy łydek | 12 kg 2×12 (2.10) | |
-| Łydki skoczne (pogo) | 2×15, bardzo lekko (15.10) | 2×20 albo jednonóż 2×10/str |
+| Łydki skoczne (pogo) | jednonóż 2×8/str (1.11) | jednonóż 2×10/str |
 | Goblet | 24 kg 3×8, RIR 5, ból prawego uda 6/10 w 3. serii (20.10) | 22 kg 3×8 (26.10), potem 24 kg przy udzie 0/10 |
 | RDL | hantle 22 kg 3×8, RIR ~5 (5.10) | hantle 24 kg (26.10, po przerwie i udzie), potem 26 kg |
 | Biceps hantle | 12 kg 2×8, RIR 3 (20.10) | 12 kg, cel 2×10 |
@@ -113,7 +116,8 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Nordic curl | zrobiony, „dobrze” (15.10) | 2×3 z asekuracją, kontrola zejścia |
 | Rotacja zewnętrzna z gumą | nowe | 2×15/str, lekka guma |
 | Izometria szyi | w rozgrzewce od 20.10 | 2×10 s/kierunek, 50–70% siły |
-| Reverse Nordic | nowe w bazie (25.10) | dopiero przy udzie 0/10 przez tydzień, 2×5 mały zakres |
+| Reverse Nordic | nowe w bazie (25.10); udo 0/10 28.10 i 1.11 | od C 9.11, 2×5 mały zakres, jeśli udo 0/10 cały tydzień |
+| Rzut piłką ze skrętem | nowe w bazie (1.11) | od A ~11.11, piłka 4–6 kg 3×5/str |
 
 ## 7. Filmiki z techniką (YT)
 
@@ -123,7 +127,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 
 **C całość:** [skok w dal](https://www.youtube.com/watch?v=CpmTk9kmdm8) · [goblet](https://www.youtube.com/watch?v=6mf0oa2GGUc) · [hantle płasko](https://www.youtube.com/watch?v=xhEhjF5ozuY) · [RDL hantlami](https://www.youtube.com/watch?v=hQgFixeXdZo) · [biceps hantle](https://www.youtube.com/watch?v=XE_pHwbst04) · [triceps wyciąg](https://www.youtube.com/watch?v=-zLyUAo1gMw) · [chaos Pallof](https://www.youtube.com/watch?v=qS6qXV5kI-Y)
 
-**Zamienniki i nowe:** [martwy klasyczny](https://www.youtube.com/watch?v=CWsxP4xat9M) · [Nordic curl](https://www.youtube.com/watch?v=_e9vFU9-tkc) · [Copenhagen adductor](https://www.youtube.com/watch?v=kD1t1hWzIDE) · [rotacja zewnętrzna z gumą](https://www.youtube.com/watch?v=ybNV36DoRfY) · [pompki](https://www.youtube.com/watch?v=IODxDxX7oi4) · [izometria szyi](https://www.youtube.com/watch?v=ZqWEXUULB7M) · [uginanie leżąc 2 w górę / 1 w dół (zamiennik Nordic)](https://www.youtube.com/watch?v=_7sVQlruVZc) · [reverse Nordic](https://www.youtube.com/watch?v=XHCz7nkfap4)
+**Zamienniki i nowe:** [martwy klasyczny](https://www.youtube.com/watch?v=CWsxP4xat9M) · [Nordic curl](https://www.youtube.com/watch?v=_e9vFU9-tkc) · [Copenhagen adductor](https://www.youtube.com/watch?v=kD1t1hWzIDE) · [rotacja zewnętrzna z gumą](https://www.youtube.com/watch?v=ybNV36DoRfY) · [pompki](https://www.youtube.com/watch?v=IODxDxX7oi4) · [izometria szyi](https://www.youtube.com/watch?v=ZqWEXUULB7M) · [uginanie leżąc 2 w górę / 1 w dół (zamiennik Nordic)](https://www.youtube.com/watch?v=_7sVQlruVZc) · [reverse Nordic](https://www.youtube.com/watch?v=XHCz7nkfap4) · [rzut piłką ze skrętem](https://www.youtube.com/watch?v=Qq83wji4t2I)
 
 Nowe ćwiczenie = najpierw link tutaj. Analiza dowodów dla nowych: [baza-cwiczen.md](baza-cwiczen.md).
 
@@ -138,6 +142,7 @@ Nowe ćwiczenie = najpierw link tutaj. Analiza dowodów dla nowych: [baza-cwicze
 - 18.10: izometria szyi 2×10 s/kierunek w rozgrzewce C i B; od B 23.10 rotacja 3 (RIR 2–3 w ciężkich), trap-bar 30 kg/str, hip thrust 30 kg/str, skrzynia 90 cm, pogo 2×20.
 - 20.10: ból górnej części prawego uda (6/10 w gobletach) → RDL pominięty; B 24.10 zależne od uda.
 - 25.10: rotacja 4 (od B 30.10) jako tydzień lżejszy: 2 serie RIR 4. C 26.10 zachowawczo dla prawego uda (skok w dal submaks., goblet 22 kg, RDL 24 kg). A: podciąganie 3×5, dipy płytkie 3×8, bokiem 2×15. Reverse Nordic w bazie, do planu dopiero przy udzie 0/10.
+- 1.11: rotacja 4 (lżejsza) dokończona: C 3.11 i A 5.11 po 2 serie RIR 4. Od B 7.11 rotacja 5: 3 serie RIR 2–3, trap-bar 32,5 kg/str, skrzynia 76 cm, wiosło 20 kg. Od rotacji 5: reverse Nordic w C (jeśli udo 0/10) i rzut piłką ze skrętem w A (nowe w bazie).
 - 6.10: wszystko w jednym pliku TRENING.md, wspólnym dla Claude'a i Hermesa.
 
 ## Archiwum: wcześniejszy plan A/B (przed 30.09)
