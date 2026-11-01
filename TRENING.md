@@ -81,7 +81,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 28.10 A (rotacja 3): energia 7, ból 0 (udo, bark, ręka). Rozgrzewka + rotacja zewnętrzna z gumą. Plyo pompki na ławce ~45 cm 4×4 wg polecenia (wysokość ławki i bark brak danych). Hantle skos 20 kg/rękę 3×8 (Kuba napisał „8x8”, czytam jako 8 w każdej serii; RIR 2–3), ból brak danych. Podciąganie neutralne masa ciała 5, 4, 4 (RIR brak danych). Dipy masa ciała 3×8 wg polecenia (RIR 4), głębiej niż zalecane 90° (Kuba: „poniżej 45 stopni”, czytam jako głębokie zejście), lewy bark 0/10. Wiosło hantlą z podparciem 18 kg 3×10/str (RIR 3–4).
 
 - 30.10 B: nieodbyte (potwierdzone przez Kubę 1.11).
-- 1.11 B (rotacja 4, lżej: 2 serie RIR 4; 30.10 nieodbyte): energia 7, prawe udo 0/10. Rozgrzewka + izometria szyi. Skok na skrzynię 3×4 wg Kuby (zalecane 61 cm 3×3, wysokość zakładam 61 cm), RIR 5–6, udo ok. Trap-bar zajęty → martwy klasyczny 75 kg 2×5 (zalecane 70 kg; serie×powt zakładam wg polecenia), RIR 5. (w trakcie)
+- 1.11 B (rotacja 4, lżej: 2 serie RIR 4; 30.10 nieodbyte): energia 7, prawe udo 0/10. Rozgrzewka + izometria szyi. Skok na skrzynię 3×4 wg Kuby (zalecane 61 cm 3×3, wysokość zakładam 61 cm), RIR 5–6, udo ok. Trap-bar zajęty → martwy klasyczny 75 kg 2×5 (zalecane 70 kg; serie×powt zakładam wg polecenia), RIR 5. Bułgarski 10 kg 2×8/str wg polecenia, RIR i udo brak danych. (w trakcie)
 
 ## 6. Punkty odniesienia (ostatni ciężar i cel na następny raz)
 
