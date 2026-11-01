@@ -80,7 +80,8 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 26.10 C (rotacja 3): zrobione wg Kuby (potwierdzone 28.10); ciężary, RIR, udo i zmęczenie po: brak danych.
 - 28.10 A (rotacja 3): energia 7, ból 0 (udo, bark, ręka). Rozgrzewka + rotacja zewnętrzna z gumą. Plyo pompki na ławce ~45 cm 4×4 wg polecenia (wysokość ławki i bark brak danych). Hantle skos 20 kg/rękę 3×8 (Kuba napisał „8x8”, czytam jako 8 w każdej serii; RIR 2–3), ból brak danych. Podciąganie neutralne masa ciała 5, 4, 4 (RIR brak danych). Dipy masa ciała 3×8 wg polecenia (RIR 4), głębiej niż zalecane 90° (Kuba: „poniżej 45 stopni”, czytam jako głębokie zejście), lewy bark 0/10. Wiosło hantlą z podparciem 18 kg 3×10/str (RIR 3–4).
 
-**Następna sesja:** B (pt 30.10, rotacja 4, lżej: 2 serie RIR 4).
+- 30.10 B: nieodbyte (potwierdzone przez Kubę 1.11).
+- 1.11 B (rotacja 4, lżej: 2 serie RIR 4): w trakcie.
 
 ## 6. Punkty odniesienia (ostatni ciężar i cel na następny raz)
 
