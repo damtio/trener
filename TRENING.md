@@ -83,7 +83,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 
 - 30.10 B: nieodbyte (potwierdzone przez Kubę 1.11).
 - 1.11 B (rotacja 4, lżej: 2 serie RIR 4; 30.10 nieodbyte): energia 7, prawe udo 0/10. Rozgrzewka + izometria szyi. Skok na skrzynię 3×4 wg Kuby (zalecane 61 cm 3×3, wysokość zakładam 61 cm), RIR 5–6, udo ok. Trap-bar zajęty → martwy klasyczny 75 kg 2×5 (zalecane 70 kg; serie×powt zakładam wg polecenia), RIR 5. Bułgarski 10 kg 2×8/str wg polecenia, RIR ~5, udo 0/10. Hip thrust sztanga 60 kg 2×8 wg polecenia (zakładam sztangę, nie Glute Drive), RIR 4–5. Pogo jednonóż 2×8/str wg polecenia. Nordic i zmęczenie po: brak danych.
-- 7.11 B (rotacja 5): energia 9, ból 0. Rozgrzewka + izometria szyi. Skok na skrzynię 76 cm 4×3 wg polecenia („gotowe”), bez bólu, RIR brak danych.
+- 7.11 B (rotacja 5): energia 9, ból 0. Rozgrzewka + izometria szyi. Skok na skrzynię 75 cm 4×3, wszystkie czysto, udo ok.
 
 **Następna sesja:** C (wt 3.11, rotacja 4, lżej: 2 serie RIR 4).
 
@@ -92,7 +92,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Ćwiczenie | Ostatnio | Następnym razem |
 |---|---|---|
 | Skok w dal | ~220 cm (5.10); ~230 cm wg telefonu, niepewne (20.10) | pobić, zmierzyć taśmą |
-| Skok na skrzynię | 3×4 (61 cm zakładane), RIR 5–6, udo ok (1.11) | 76 cm 4×3 (7.11), potem 90 cm |
+| Skok na skrzynię | 75 cm 4×3, czysto, udo ok (7.11) | 75 cm 4×3 jeszcze raz, potem 90 cm |
 | Plyo pompki / pompki na ławce | 4×5 (10.10) | 4×5, niższa ławka lub podłoga |
 | Pompki | 12+10, RIR 3–4 | |
 | Skos sztanga | 40 kg, 8+7, RIR ~3 | 40 kg |
