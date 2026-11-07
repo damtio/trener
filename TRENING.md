@@ -83,7 +83,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 
 - 30.10 B: nieodbyte (potwierdzone przez Kubę 1.11).
 - 1.11 B (rotacja 4, lżej: 2 serie RIR 4; 30.10 nieodbyte): energia 7, prawe udo 0/10. Rozgrzewka + izometria szyi. Skok na skrzynię 3×4 wg Kuby (zalecane 61 cm 3×3, wysokość zakładam 61 cm), RIR 5–6, udo ok. Trap-bar zajęty → martwy klasyczny 75 kg 2×5 (zalecane 70 kg; serie×powt zakładam wg polecenia), RIR 5. Bułgarski 10 kg 2×8/str wg polecenia, RIR ~5, udo 0/10. Hip thrust sztanga 60 kg 2×8 wg polecenia (zakładam sztangę, nie Glute Drive), RIR 4–5. Pogo jednonóż 2×8/str wg polecenia. Nordic i zmęczenie po: brak danych.
-- 7.11 B (rotacja 5): energia 9, ból 0. Rozgrzewka + izometria szyi. Skok na skrzynię 75 cm 4×3, wszystkie czysto, udo ok. Trap-bar 32,5 kg/str 3×5 („gotowe”; sam gryf trap-bara 26,4 kg, razem ~91,4 kg), RIR brak danych. Bułgarski 12,5 kg 2×6/str (zalecane 3×6–8; 2 serie, RIR brak danych). Hip thrust sztanga 70 kg 3×8 wg polecenia, RIR 1–2.
+- 7.11 B (rotacja 5): energia 9, ból 0. Rozgrzewka + izometria szyi. Skok na skrzynię 75 cm 4×3, wszystkie czysto, udo ok. Trap-bar 32,5 kg/str 3×5 („gotowe”; sam gryf trap-bara 26,4 kg, razem ~91,4 kg), RIR brak danych. Bułgarski 12,5 kg 2×6/str (zalecane 3×6–8; 2 serie, RIR brak danych). Hip thrust sztanga 70 kg 3×8 wg polecenia, RIR 1–2. Pogo jednonóż 2×10/str, RIR 10 (za łatwo).
 
 **Następna sesja:** C (wt 3.11, rotacja 4, lżej: 2 serie RIR 4).
 
@@ -108,7 +108,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Hip thrust Glute Drive | 25 kg/str 3×8, RIR 5 (15.10) | 30 kg/str |
 | Hip thrust sztanga | 70 kg 3×8, RIR 1–2 (7.11) | 70 kg 3×8 do RIR 3, potem 75 kg |
 | Wznosy łydek | 12 kg 2×12 (2.10) | |
-| Łydki skoczne (pogo) | jednonóż 2×8/str (1.11) | jednonóż 2×10/str |
+| Łydki skoczne (pogo) | jednonóż 2×10/str, RIR 10 (7.11) | za łatwe: pogo jednonóż w bok/przód-tył 2×10/str albo wznosy łydek jednonóż z hantlem 16 kg 2×12 |
 | Goblet | 24 kg 3×8, RIR 5, ból prawego uda 6/10 w 3. serii (20.10) | 22 kg 3×8 (26.10), potem 24 kg przy udzie 0/10 |
 | RDL | hantle 22 kg 3×8, RIR ~5 (5.10) | hantle 24 kg (26.10, po przerwie i udzie), potem 26 kg |
 | Biceps hantle | 12 kg 2×8, RIR 3 (20.10) | 12 kg, cel 2×10 |
