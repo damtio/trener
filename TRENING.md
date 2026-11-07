@@ -84,10 +84,10 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 30.10 B: nieodbyte (potwierdzone przez Kubę 1.11).
 - 1.11 B (rotacja 4, lżej: 2 serie RIR 4; 30.10 nieodbyte): energia 7, prawe udo 0/10. Rozgrzewka + izometria szyi. Skok na skrzynię 3×4 wg Kuby (zalecane 61 cm 3×3, wysokość zakładam 61 cm), RIR 5–6, udo ok. Trap-bar zajęty → martwy klasyczny 75 kg 2×5 (zalecane 70 kg; serie×powt zakładam wg polecenia), RIR 5. Bułgarski 10 kg 2×8/str wg polecenia, RIR ~5, udo 0/10. Hip thrust sztanga 60 kg 2×8 wg polecenia (zakładam sztangę, nie Glute Drive), RIR 4–5. Pogo jednonóż 2×8/str wg polecenia. Nordic i zmęczenie po: brak danych.
 - 3.11 C (rotacja 4, lżej; całość podana naraz, offline): energia brak danych. Skok w dal „gotowe”. Goblet 24 kg 2×8, RIR 5. Hantle płasko 20 kg 2 serie „gotowe”. RDL hantle 24 kg „gotowe”. Biceps/triceps „gotowe”. Pallof „gotowe”. Izometria szyi pominięta. Udo 0/10. Zmęczenie po: 4.
-- 5.11 A (rotacja 4, lżej): brak danych.
+- 5.11 A: nieodbyte (potwierdzone przez Kubę 7.11).
 - 7.11 B (rotacja 5): energia 9, ból 0. Rozgrzewka + izometria szyi. Skok na skrzynię 75 cm 4×3, wszystkie czysto, udo ok. Trap-bar 32,5 kg/str 3×5 („gotowe”; sam gryf trap-bara 26,4 kg, razem ~91,4 kg), RIR brak danych. Bułgarski 12,5 kg 2×6/str (zalecane 3×6–8; 2 serie, RIR brak danych). Hip thrust sztanga 70 kg 3×8 wg polecenia, RIR 1–2. Pogo jednonóż 2×10/str, RIR 10 (za łatwo). Nordic 2×3 wg polecenia, udo 0/10. Zmęczenie po: 5–6.
 
-**Następna sesja:** C (pon 9.11, rotacja 5) + reverse Nordic 2×5 (udo 0/10 od 1.11).
+**Następna sesja:** A (pon 9.11, rotacja 5, 3 serie RIR 2–3; góra nie robiona od 28.10) z rzutem piłką ze skrętem 3×5/str na początku. Potem C (~11.11) z reverse Nordic, potem B.
 
 ## 6. Punkty odniesienia (ostatni ciężar i cel na następny raz)
 
@@ -146,6 +146,7 @@ Nowe ćwiczenie = najpierw link tutaj. Analiza dowodów dla nowych: [baza-cwicze
 - 20.10: ból górnej części prawego uda (6/10 w gobletach) → RDL pominięty; B 24.10 zależne od uda.
 - 25.10: rotacja 4 (od B 30.10) jako tydzień lżejszy: 2 serie RIR 4. C 26.10 zachowawczo dla prawego uda (skok w dal submaks., goblet 22 kg, RDL 24 kg). A: podciąganie 3×5, dipy płytkie 3×8, bokiem 2×15. Reverse Nordic w bazie, do planu dopiero przy udzie 0/10.
 - 1.11: rotacja 4 (lżejsza) dokończona: C 3.11 i A 5.11 po 2 serie RIR 4. Od B 7.11 rotacja 5: 3 serie RIR 2–3, trap-bar 32,5 kg/str, skrzynia 76 cm, wiosło 20 kg. Od rotacji 5: reverse Nordic w C (jeśli udo 0/10) i rzut piłką ze skrętem w A (nowe w bazie).
+- 7.11: A 5.11 nieodbyte → kolejka przesunięta: A 9.11, C ~11.11 (z reverse Nordic), B ~13.11.
 - 7.11: pogo jednonóż za łatwe (RIR 10) → w B 2×10/str pogo w bok/przód-tył albo wznosy łydek jednonóż z hantlem 16 kg 2×12. Gryf trap-bara na siłowni waży 26,4 kg. Hip thrust zostaje na 70 kg do RIR 3. Bułgarski 12,5 kg, cel 3×6.
 - 6.10: wszystko w jednym pliku TRENING.md, wspólnym dla Claude'a i Hermesa.
 
