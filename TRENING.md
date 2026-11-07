@@ -83,7 +83,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 
 - 30.10 B: nieodbyte (potwierdzone przez Kubę 1.11).
 - 1.11 B (rotacja 4, lżej: 2 serie RIR 4; 30.10 nieodbyte): energia 7, prawe udo 0/10. Rozgrzewka + izometria szyi. Skok na skrzynię 3×4 wg Kuby (zalecane 61 cm 3×3, wysokość zakładam 61 cm), RIR 5–6, udo ok. Trap-bar zajęty → martwy klasyczny 75 kg 2×5 (zalecane 70 kg; serie×powt zakładam wg polecenia), RIR 5. Bułgarski 10 kg 2×8/str wg polecenia, RIR ~5, udo 0/10. Hip thrust sztanga 60 kg 2×8 wg polecenia (zakładam sztangę, nie Glute Drive), RIR 4–5. Pogo jednonóż 2×8/str wg polecenia. Nordic i zmęczenie po: brak danych.
-- 7.11 B (rotacja 5): energia 9, ból 0. Rozgrzewka + izometria szyi. Skok na skrzynię 75 cm 4×3, wszystkie czysto, udo ok.
+- 7.11 B (rotacja 5): energia 9, ból 0. Rozgrzewka + izometria szyi. Skok na skrzynię 75 cm 4×3, wszystkie czysto, udo ok. Trap-bar 32,5 kg/str 3×5 („gotowe”; sam gryf trap-bara 26,4 kg, razem ~91,4 kg), RIR brak danych.
 
 **Następna sesja:** C (wt 3.11, rotacja 4, lżej: 2 serie RIR 4).
 
@@ -102,7 +102,7 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 | Dipy | masa ciała 3×8, głęboko, RIR 4, bark 0/10 (28.10) | 3×10 albo +2,5–5 kg, jeśli bark dalej 0/10 |
 | Wiosło z podparciem | 18 kg 3×10, RIR 3–4 (28.10) | 20 kg (2×10 w lżejszym tygodniu, potem 3×10) |
 | Unoszenie bokiem | 6 kg 2×12 (22.10) | 6 kg, cel 2×15, potem 7,5 kg |
-| Trap-bar | 30 kg/str 3×5, RIR 3 (24.10) | 32,5 kg/str 3×5 (7.11) |
+| Trap-bar (gryf 26,4 kg) | 32,5 kg/str 3×5, ~91,4 kg razem (7.11) | 35 kg/str 3×5, jeśli RIR ≥3 |
 | Martwy klasyczny | 75 kg 2×5, RIR 5 (1.11) | 80 kg 3×5 |
 | Bułgarski | 10 kg 2×8/str, RIR ~5, udo 0/10 (1.11); 12 kg 2×8 RIR 0 (24.10) | 12 kg 3×6–8, RIR 2 |
 | Hip thrust Glute Drive | 25 kg/str 3×8, RIR 5 (15.10) | 30 kg/str |
