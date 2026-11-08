@@ -57,6 +57,12 @@ Polskie wytyczne z 2023 r. (Płudowski i in., Nutrients 2023) dla zdrowych doros
 
 **Wniosek dla Kuby:** od teraz do kwietnia 2 000 IU D3 dziennie, do posiłku z tłuszczem. Wytyczne nie zalecają rutynowego badania, ale jeśli robisz badania krwi (patrz 18.10: ferrytyna, B12), dorzuć 25(OH)D, to będzie punkt odniesienia. Wegańska D3 jest z porostów, standardowa z lanoliny (wełna owcza).
 
+## Aktualizacja 8.11.2026: ile białka na posiłek
+
+Przegląd Schoenfelda i Aragona (Journal of the International Society of Sports Nutrition 2018) zaleca **0,4 g/kg na posiłek w co najmniej 4 posiłkach**, czyli minimum 1,6 g/kg dziennie; przy górnym celu 2,2 g/kg to do 0,55 g/kg na posiłek ([JISSN, PDF](https://jissn.biomedcentral.com/track/pdf/10.1186/s12970-018-0215-1)). Autorzy sami zaznaczają, że to praktyczna strategia, a nie twardy sufit. Badanie Trommelena i in. (Cell Reports Medicine 2023) to potwierdza: po treningu 100 g białka dało większą i dłuższą (ponad 12 h) odpowiedź anaboliczną niż 25 g, więc „ciało przyswoi tylko 30 g naraz” to mit ([Maastricht University](https://cris.maastrichtuniversity.nl/en/publications/the-anabolic-response-to-protein-ingestion-during-recovery-from-e)).
+
+**Wniosek dla Kuby:** przy 81,5 kg to **33–45 g białka na posiłek, 4 razy dziennie** (np. śniadanie, obiad, posiłek po treningu, kolacja). Przy białku roślinnym celuj w górną granicę (~40 g), bo ma mniej leucyny. Jeśli jeden dzień wyjdzie 3 duże posiłki, nic się nie dzieje: suma dzienna jest ważniejsza niż podział. Wszystkie przepisy niżej mają 35–45 g, czyli są ustawione pod ten cel.
+
 ## Przepisy
 
 ### Tofu scramble z ciecierzycą (śniadanie, ~40 g białka, wegańskie)
@@ -112,4 +118,13 @@ Cebula, czosnek i papryka na oleju, kumin, papryka wędzona. Puszka pomidorów i
 
 ### Twarożek z edamame i rzodkiewką na grzance (wegetariański, ~35 g białka, 5 min)
 200 g serka wiejskiego lub twarogu wymieszać ze 100 g ugotowanego edamame (rozgniecionego widelcem), rzodkiewką, szczypiorem, solą i pieprzem. Na 2 kromki chleba żytniego na zakwasie. Szybkie śniadanie albo kolacja po treningu.
+
+### Kotlety z czerwonej soczewicy i tofu z sosem jogurtowym (na 2 porcje, ~38 g białka/porcja, wegetariańskie)
+100 g czerwonej soczewicy ugotować na gęsto, ostudzić. Wymieszać z 200 g rozgniecionego tofu, jajkiem, 3 łyżkami bułki tartej, czosnkiem, kuminem i natką. Uformować 6 kotletów, smażyć po 3 min z każdej strony. Sos: 150 g skyru z czosnkiem i koperkiem. Wegańsko: jajko zamień na łyżkę siemienia + 3 łyżki wody, sos na jogurcie sojowym.
+
+### Ramen z tofu, edamame i jajkiem (obiad, ~40 g białka, wegetariański, 20 min)
+Bulion warzywny z łyżką pasty miso, sosem sojowym, imbirem i czosnkiem. 70 g makaronu udon lub soba, 150 g tofu twardego podsmażonego w kostce, 80 g edamame, jajko na miękko, dymka, sezam, szpinak. Wegańsko: bez jajka, 200 g tofu.
+
+### Koktajl „szarlotka” z mlekiem sojowym i twarogiem (wegetariański, ~38 g białka, 3 min)
+300 ml mleka sojowego, 150 g twarogu chudego, jabłko, 30 g płatków owsianych, cynamon, łyżeczka miodu. Zmiksować. Dobry jako 4. posiłek wieczorem, kiedy nie chce się gotować.
 
