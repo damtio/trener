@@ -54,11 +54,11 @@ Moc na początku sesji. Wejście stopniowe:
 
 Pełny raport: najnowszy plik w [raporty/](raporty/). Niedzielny routine nadpisuje tę sekcję.
 
-**9–15.11.2026 (rotacja 5, 3 serie, RIR 2–3):** pon 9.11 A · wt mobility D1 · śr 11.11 C · czw mobility D2 · pt 13.11 B (rotacja 6) · sob mobility D3 lub wolne · ndz 15.11 A (rotacja 6) tylko przy energii ≥7, inaczej pon 16.11.
+**16–22.11.2026 (rotacja 5, 3 serie, RIR 3; tydzień 9–15.11 bez zapisanych sesji, więc bez podbijania):** pon 16.11 A · wt mobility D1 · śr 18.11 C · czw mobility D2 · pt 20.11 B (rotacja 6) · sob mobility D3 lub wolne · ndz 22.11 A (rotacja 6) tylko przy energii ≥7, inaczej pon 23.11.
 
-Ciężary na A 9.11: rotacja zewnętrzna z gumą · **rzut piłką ze skrętem 3×5/str** (piłka 4–6 kg, nowe) · plyo pompki 3×4 · hantle skos 20 kg 3×8–10 · podciąganie neutralne 3×5 · dipy masa ciała 3×8 · wiosło 20 kg 3×10 · bokiem 6 kg 2×15. Góra ostatnio 28.10, więc bez podbijania poza wiosłem.
-Ciężary na C 11.11: izometria szyi · skok w dal 4×3 (zmierzyć taśmą najlepszy) · goblet 24 kg 3×8 · hantle płasko 20 kg 3×10 · RDL hantle 24 kg 3×8 · biceps 12 kg + triceps wyciąg 17,5 kg 2×10 · Pallof 2×10/str · **reverse Nordic 2×5 w małym zakresie** (pierwszy raz, udo 0/10 od 28.10).
-Ciężary na B 13.11: izometria szyi · skrzynia 75 cm 4×3 · trap-bar 32,5 kg/str 3×5 (podać RIR; ≥3 → 35 kg) · bułgarski 12,5 kg 3×6 · hip thrust sztanga 70 kg 3×8 (cel RIR 3) · wznosy łydek jednonóż z hantlem 16 kg 2×12 · Nordic 2×4.
+Ciężary na A 16.11: rotacja zewnętrzna z gumą · **rzut piłką ze skrętem 3×5/str** (piłka 4–6 kg, nowe) · plyo pompki 3×4 · hantle skos 20 kg 3×8–10 · podciąganie neutralne 3×5 · dipy masa ciała 3×8 · wiosło 20 kg 3×10 · bokiem 6 kg 2×15. Góra ostatnio 28.10: pierwsza seria każdego ćwiczenia zachowawczo, korekta wg RIR.
+Ciężary na C 18.11: izometria szyi · skok w dal 4×3 (zmierzyć taśmą najlepszy) · goblet 24 kg 3×8 · hantle płasko 20 kg 3×10 · RDL hantle 24 kg 3×8 · biceps 12 kg + triceps wyciąg 17,5 kg 2×10 · Pallof 2×10/str · **reverse Nordic 2×5 w małym zakresie** (pierwszy raz).
+Ciężary na B 20.11: izometria szyi · skrzynia 75 cm 4×3 · trap-bar 32,5 kg/str 3×5 (podać RIR; ≥3 → 35 kg) · bułgarski 12,5 kg 3×6 · hip thrust sztanga 70 kg 3×8 (cel RIR 3) · wznosy łydek jednonóż z hantlem 16 kg 2×12 · Nordic 2×4.
 
 ## 5. Historia sesji
 
@@ -84,8 +84,9 @@ Format: `- D.MM sesja (rotacja): energia, ból. Ćwiczenie sprzęt ciężar seri
 - 3.11 C (rotacja 4, lżej; całość podana naraz, offline): energia brak danych. Skok w dal „gotowe”. Goblet 24 kg 2×8, RIR 5. Hantle płasko 20 kg 2 serie „gotowe”. RDL hantle 24 kg „gotowe”. Biceps/triceps „gotowe”. Pallof „gotowe”. Izometria szyi pominięta. Udo 0/10. Zmęczenie po: 4.
 - 5.11 A: nieodbyte (potwierdzone przez Kubę 7.11).
 - 7.11 B (rotacja 5): energia 9, ból 0. Rozgrzewka + izometria szyi. Skok na skrzynię 75 cm 4×3, wszystkie czysto, udo ok. Trap-bar 32,5 kg/str 3×5 („gotowe”; sam gryf trap-bara 26,4 kg, razem ~91,4 kg), RIR brak danych. Bułgarski 12,5 kg 2×6/str (zalecane 3×6–8; 2 serie, RIR brak danych). Hip thrust sztanga 70 kg 3×8 wg polecenia, RIR 1–2. Pogo jednonóż 2×10/str, RIR 10 (za łatwo). Nordic 2×3 wg polecenia, udo 0/10. Zmęczenie po: 5–6.
+- 9–15.11: brak zapisanych sesji (A, C, B z planu bez danych).
 
-**Następna sesja:** A (pon 9.11, rotacja 5) z rzutem piłką ze skrętem na początku; potem C 11.11 z reverse Nordic, potem B 13.11.
+**Następna sesja:** A (pon 16.11, rotacja 5, RIR 3) z rzutem piłką ze skrętem na początku; potem C 18.11 z reverse Nordic, potem B 20.11.
 
 ## 6. Punkty odniesienia (ostatni ciężar i cel na następny raz)
 
@@ -147,6 +148,7 @@ Nowe ćwiczenie = najpierw link tutaj. Analiza dowodów dla nowych: [baza-cwicze
 - 7.11: A 5.11 nieodbyte → kolejka przesunięta: A 9.11, C ~11.11 (z reverse Nordic), B ~13.11.
 - 7.11: pogo jednonóż za łatwe (RIR 10) → w B 2×10/str pogo w bok/przód-tył albo wznosy łydek jednonóż z hantlem 16 kg 2×12. Gryf trap-bara na siłowni waży 26,4 kg. Hip thrust zostaje na 70 kg do RIR 3. Bułgarski 12,5 kg, cel 3×6.
 - 8.11: A 5.11 nieodbyte, więc rotacja 5 rusza od A 9.11 (rzut piłką ze skrętem), C 11.11 (pierwszy reverse Nordic), B 13.11 (rotacja 6: łydki jako wznosy jednonóż 16 kg, Nordic 2×4). Wiosło 20 kg. W tym tygodniu bez nowego ćwiczenia w bazie: dwa poprzednie jeszcze nie weszły.
+- 15.11: tydzień 9–15.11 bez zapisanych sesji, plan przesunięty 1:1 o tydzień (A 16.11, C 18.11, B 20.11), RIR 3 zamiast 2–3, ciężary bez zmian.
 - 6.10: wszystko w jednym pliku TRENING.md, wspólnym dla Claude'a i Hermesa.
 
 ## Archiwum: wcześniejszy plan A/B (przed 30.09)

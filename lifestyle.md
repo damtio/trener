@@ -63,6 +63,12 @@ Przegląd Schoenfelda i Aragona (Journal of the International Society of Sports 
 
 **Wniosek dla Kuby:** przy 81,5 kg to **33–45 g białka na posiłek, 4 razy dziennie** (np. śniadanie, obiad, posiłek po treningu, kolacja). Przy białku roślinnym celuj w górną granicę (~40 g), bo ma mniej leucyny. Jeśli jeden dzień wyjdzie 3 duże posiłki, nic się nie dzieje: suma dzienna jest ważniejsza niż podział. Wszystkie przepisy niżej mają 35–45 g, czyli są ustawione pod ten cel.
 
+## Aktualizacja 15.11.2026: strączki bez wzdęć
+
+Winham i Hutchins (Nutrition Journal 2011) w 3 badaniach podawali dorosłym ok. pół szklanki fasoli dziennie przez 8–12 tygodni. W 1. tygodniu więcej gazów zgłaszało 35% osób, w 2. tygodniu 19%, a w 8. tygodniu już 3%. Groch czarne oczko dawał mniej problemów (19% na starcie) niż pinto czy fasolka w sosie (45–50%). U części osób objawy zostają, ale u większości mijają w kilka tygodni ([Nutrition Journal, PDF](https://nutritionj.biomedcentral.com/track/pdf/10.1186/1475-2891-10-128)).
+
+**Wniosek dla Kuby:** strączki to jedno z Twoich głównych źródeł białka, więc warto je jeść codziennie, a nie zrywami. Zacznij od mniejszych porcji, płucz ciecierzycę i fasolę z puszki, suche namaczaj i wylewaj wodę. Czerwona soczewica i tofu zwykle wzdymają najmniej. Brzuch adaptuje się w 2–4 tygodnie regularnego jedzenia.
+
 ## Przepisy
 
 ### Tofu scramble z ciecierzycą (śniadanie, ~40 g białka, wegańskie)
@@ -127,4 +133,13 @@ Bulion warzywny z łyżką pasty miso, sosem sojowym, imbirem i czosnkiem. 70 g 
 
 ### Koktajl „szarlotka” z mlekiem sojowym i twarogiem (wegetariański, ~38 g białka, 3 min)
 300 ml mleka sojowego, 150 g twarogu chudego, jabłko, 30 g płatków owsianych, cynamon, łyżeczka miodu. Zmiksować. Dobry jako 4. posiłek wieczorem, kiedy nie chce się gotować.
+
+### Sałatka z grochu czarne oczko, tofu wędzonego i kaszy bulgur (na 2 porcje, ~35 g białka/porcja, wegańska)
+Puszka grochu czarne oczko (opłukany), 200 g tofu wędzonego w kostce, 120 g (sucha waga) ugotowanego bulguru, ogórek, pomidorki, czerwona cebula, natka, mięta. Sos: oliwa, cytryna, czosnek, sumak lub papryka. Trzyma się 2 dni w lodówce, dobra do pracy.
+
+### Zapiekanka z makaronu z ciecierzycy, brokułem i serkiem wiejskim (na 2 porcje, ~45 g białka/porcja, wegetariańska)
+160 g makaronu z ciecierzycy ugotować al dente. Wymieszać z brokułem (ugotowanym 3 min), 300 g serka wiejskiego, jajkiem, czosnkiem i gałką muszkatołową. Posypać 40 g startego sera, piec 15 min w 200°C.
+
+### Owsianka na ciepło z mlekiem sojowym, odżywką i masłem orzechowym (wegańska, ~38 g białka, 5 min)
+60 g płatków owsianych gotować w 300 ml mleka sojowego, zdjąć z ognia i wmieszać 25 g odżywki sojowej lub grochowej, łyżkę masła orzechowego, banan, cynamon. Na zimne poranki zamiast owsianki na noc.
 
